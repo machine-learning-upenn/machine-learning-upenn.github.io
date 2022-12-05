@@ -1,14 +1,14 @@
 ---
 layout: home
-title: Just the Class
+title: CIS 5200 Machine Learning (Spring 2023)
 nav_exclude: true
 permalink: index.html
 seo:
   type: Course
-  name: Just the Class
+  name: CIS 5200 Machine Learning
 ---
 
-# Just the Class
+# CIS 5200 Machine Learning (Spring 2023)
 
 Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
 
