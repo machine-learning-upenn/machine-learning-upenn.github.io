@@ -32,14 +32,6 @@ aux_links:
     - 'https://canvas.upenn.edu/'
   Ed Discussion: 
     - 'https://edstem.org/'
-  Eric Wong: 
-    - 'https://www.cis.upenn.edu/~exwong/'
-  Surbhi Goel: 
-    - 'https://www.surbhigoel.com/'
-  # Kevin Lin:
-  #   - 'https://kevinl.info'
-  # Just the Class on GitHub:
-  #   - 'https://github.com/kevinlin1/just-the-class'
 footer_content:
 
 # Collections for website data
