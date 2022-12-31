@@ -10,30 +10,42 @@ seo:
 
 # CIS 5200 Machine Learning (Spring 2023)
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+- **Lecture time**: Tuesdays and Thursdays 1:45-3:15 pm
+- **Lecture location**: TBA
+- **Instructors**: [Surbhi Goel](https://www.surbhigoel.com) (surbhig) and [Eric Wong](https://www.cis.upenn.edu/~exwong/) (exwong)
+- **Head TAs** Keshav Ramji, and Wendi Zhang
+- **TAs**: Abhinav Atrishi, Jordan Hochman, Bowen Jiang, Pavlos Kallinikidis, William Liang, Heyi Liu, David Zhi LuoZhang, Aryan Nagariya, Jeffrey Pan, Aditya Pratap Singh, and Tianyi Wei
+- **Office Hours**: TBA
+- **Questions**: We will be using ed for all course communications. We encourage you to ask and answer any questions about the class (including homeworks, course schedule, exams, etc.) on ed. You can post privately on ed to contact the course staff (including instructors), if needed.
 
-- [announcements](announcements.md),
-- a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
 
-Just the Class is a template that extends the popular [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as:
+## Course Overview
 
-- automatic [navigation structure](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/),
-- instant, full-text [search](https://just-the-docs.github.io/just-the-docs/docs/search/) and page indexing,
-- and a set of [UI components](https://just-the-docs.github.io/just-the-docs/docs/ui-components) and authoring [utilities](https://just-the-docs.github.io/just-the-docs/docs/utilities).
+This course intends to provide a thorough modern introduction to the field of machine learning. It is designed for students who want to understand not only what machine learning algorithms do and how they can be used, but also the fundamental principles behind how and why they work. In particular, the course will focus on understanding the theoretical foundations of machine learning methods, along with applying them to real world data.
 
-## Getting Started
+Please refer to the [course schedule](calendar.md) for the tentative schedule including topics we will cover in the lectures along with any relevant reading material.
 
-Getting started with Just the Class is simple.
+## Format
 
-1. Create a [new repository based on Just the Class](https://github.com/kevinlin1/just-the-class/generate).
-1. Update `_config.yml` and `README.md` with your course information. [Be sure to update the url and baseurl](https://mademistakes.com/mastering-jekyll/site-url-baseurl/).
-1. Configure a [publishing source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages). Your course website is now live!
-1. Edit and create `.md` [Markdown files](https://guides.github.com/features/mastering-markdown/) to add more content pages.
+Lectures will be held live every Tuesday and Thursday during 1:45-3:15 pm. Office hours will be held throughout the week. The time and location will be posted soon.
 
-Just the Class has been used by instructors at Stanford University ([CS 161](https://stanford-cs161.github.io/winter2021/)), UC Berkeley ([Data 100](https://ds100.org/fa21/)), UC Santa Barbara ([CSW8](https://ucsb-csw8.github.io/s22/)), Northeastern University ([CS4530/5500](https://neu-se.github.io/CS4530-CS5500-Spring-2021/)), and Carnegie Mellon University ([17-450/17-950](https://cmu-crafting-software.github.io/)). Share your course website and find more examples in the [show and tell discussion](https://github.com/kevinlin1/just-the-class/discussions/categories/show-and-tell)!
+We will not be recording the lectures, so we highly encourage attending them live. Lecture notes and slides will be made available after the lecture. If you miss class, we encourage you to attend office hours.
 
-### Local development environment
+## Prerequisites
 
-Just the Class requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+- Undergraduate level training or coursework on linear algebra, (multivariate) calculus, and basic probability and statistics,
+
+- Basic programming in Python,
+
+- Undergraduate level training or coursework in the analysis of algorithms.
+
+
+## Resources 
+
+We will not be explicitly following any single textbook in this course. The following books are useful for supplementary reading.
+
+- Elements of Statistical Learning by Trevor Hastie, Robert Tibshirani and Jerome Friedman. Available as PDF [here](https://hastie.su.domains/Papers/ESLII.pdf]).
+
+- Probabilistic Machine Learning: An Introduction by Kevin Murphy. Available as PDF [here](https://probml.github.io/pml-book/book1.html).
+
+- Understanding Machine Learning: From Theory to Algorithms, by Shai Shalev-Shwartz and Shai Ben-David. Available as PDF [here](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf). Refer to this book for a more theoretical exposition of the material covered in class.
