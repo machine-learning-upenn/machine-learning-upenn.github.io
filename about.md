@@ -16,18 +16,51 @@ description: >-
 
 ---
 
-## About
+This course intends to provide a thorough modern introduction to the field of machine learning. It is designed for students who want to understand not only what machine learning algorithms do and how they can be used, but also the fundamental principles behind how and why they work.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat.
+## Format
 
-## Lecture
+Lectures will be held live every Tuesday and Thursday during 1:45-3:15 pm. Office hours will be held throughout the week. The time and location will be posted soon.
 
-Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla.
+We will not be recording the lectures, so we highly encourage attending them live. Lecture notes and slides will be made available after the lecture. If you miss class, we encourage you to attend office hours.
 
-## Resources
+## Prerequisites
 
-Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi.
+- Undergraduate level training or coursework on linear algebra, (multivariate) calculus, and basic probability and statistics,
 
-## Assignments
+- Basic programming in Python,
 
-Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus.
+- Undergraduate level training or coursework in the analysis of algorithms.
+
+
+## Resources 
+
+We will not be explicitly following any single textbook in this course. The following books are useful for supplementary reading.
+
+- Elements of Statistical Learning by Trevor Hastie, Robert Tibshirani and Jerome Friedman. Available as PDF [https://hastie.su.domains/Papers/ESLII.pdf](here).
+
+- Probabilistic Machine Learning: An Introduction by Kevin Murphy. Available as PDF [https://probml.github.io/pml-book/book1.html](here).
+
+- Understanding Machine Learning: From Theory to Algorithms, by Shai Shalev-Shwartz and Shai Ben-David. Available as PDF [https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf](here). Refer to this book for a more theoretical exposition of the material covered in class.
+
+## Grading
+
+Your grade will be based on three components: **Homeworks 50% (HW0:Required (not graded), HW1-HW5: 10% each); Midterm 20%; Final 30%**.
+
+### Homeworks
+
+Homeworks will be posted on Mondays, every two weeks except for the week of the midterm. They will be due on the Friday the week after they have been released. Grades will be made available within 10 days of the deadline. Your homeworks will be submitted via Gradescope. Coding will be in Python. Written homeworks should be submitted in Latex. A template will be made available with the homework. Each student will have **144 cumulative hours (6 days)** of late time (as measured on Canvas), which will be forgiven. After this cumulative amount of time has passed, any assignment that is turned in late will receive zero credit. Furthermore, only up to 48 hours (2 days) of late time may be used on any one assignment; any assignment turned in more than 48 hours late will receive zero credit. 
+
+### Exams
+
+There will be two exams: (1) a Midterm exam to be held on February 21, 2023 during the lecture, and (2) a Final exam to be held in May (date/time TBA).
+
+## Collaboration
+
+Collaboration is permitted and encouraged, though each student must understand, write, and hand in their own submission. In particular, it is acceptable for students to discuss problems with each other; it is not acceptable for students to look at another student's written answers when writing their own. It is also not acceptable to publicly post your (partial) solution on Ed, but it is is encouraged for you to ask public questions on Ed. If you choose to collaborate, you must indicate on each homework with whom you collaborated.
+
+## Honor Code
+
+The purpose of homeworks is to help you get a deeper understanding of the course material and practice with applying the concepts learned in class, not just give us the right answers. You are encouraged to use online resources for learning more about the material covered in class; however, you should not look for or use found solutions to questions in the homeworks. This includes any solutions found on the internet to questions in the homework, solutions by a student in a previous class or by a current classmate, and/or by querying ChatGPT. Cheating will be punished according to university regulations as determined by the Office of Student Conduct.
+
+

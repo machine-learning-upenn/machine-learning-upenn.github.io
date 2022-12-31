@@ -24,7 +24,7 @@ schedule:
     events:
       - name: Lecture
         start: 1:45 PM
-        end: 3:14 PM
+        end: 3:15 PM
         location: TBD
   - name: Wednesday
   - name: Thursday
