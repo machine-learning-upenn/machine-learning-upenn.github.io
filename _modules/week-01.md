@@ -2,22 +2,58 @@
 title: Introduction to Java
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+Jan 12
+: **Lecture**{: .label .label-purple }[Introduction & Course Overview](#)
+  : [Slides](#)
+: *Instructor: Eric/Surbhi*
+: **HW 0 out**{: .label .label-red }
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
+Jan 17
+: **Lecture**{: .label .label-purple }[Binary Classification, Perceptron, Logistic Regression](#)
+  : [Slides](#)
+: *Instructor: Surbhi*
 
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
+Jan 19
+: **Lecture**{: .label .label-purple }[Linear Regression, Least Squares](#)
+  : [Slides](#)
+: *Instructor: Surbhi*
 
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
+Jan 24
+: **Lecture**{: .label .label-purple }[Clustering, K-Means](#)
+  : [Slides](#)
+: *Instructor: Eric*
 
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+Jan 26
+: **Lecture**{: .label .label-purple }[Gaussian Mixture Models, EM](#)
+  : [Slides](#)
+: *Instructor: Eric*
+
+Jan 31
+: **Lecture**{: .label .label-purple }[PCA, ICA](#)
+  : [Slides](#)
+: *Instructor: Eric*
+
+Feb 2
+: **Lecture**{: .label .label-purple }[Linear Programs, Duality, Quadratic Programs](#)
+  : [Slides](#)
+: *Instructor: Eric*
+
+Feb 7
+: **Lecture**{: .label .label-purple }[Kernels](#)
+  : [Slides](#)
+: *Instructor: Surbhi*
+
+Feb 9
+: **Lecture**{: .label .label-purple }[Support Vector Machines (SVMs)](#)
+  : [Slides](#)
+: *Instructor: Surbhi*
+
+Feb 14
+: **Lecture**{: .label .label-purple }[Optimization: Convex](#)
+  : [Slides](#)
+: *Instructor: Surbhi*
+
+Feb 14
+: **Lecture**{: .label .label-purple }[Optimization: Non-convex](#)
+  : [Slides](#)
+: *Instructor: Eric*
