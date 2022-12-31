@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Policies
 description: >-
     Course policies and information.
 ---
@@ -15,33 +15,6 @@ description: >-
 {:toc}
 
 ---
-
-This course intends to provide a thorough modern introduction to the field of machine learning. It is designed for students who want to understand not only what machine learning algorithms do and how they can be used, but also the fundamental principles behind how and why they work.
-
-## Format
-
-Lectures will be held live every Tuesday and Thursday during 1:45-3:15 pm. Office hours will be held throughout the week. The time and location will be posted soon.
-
-We will not be recording the lectures, so we highly encourage attending them live. Lecture notes and slides will be made available after the lecture. If you miss class, we encourage you to attend office hours.
-
-## Prerequisites
-
-- Undergraduate level training or coursework on linear algebra, (multivariate) calculus, and basic probability and statistics,
-
-- Basic programming in Python,
-
-- Undergraduate level training or coursework in the analysis of algorithms.
-
-
-## Resources 
-
-We will not be explicitly following any single textbook in this course. The following books are useful for supplementary reading.
-
-- Elements of Statistical Learning by Trevor Hastie, Robert Tibshirani and Jerome Friedman. Available as PDF [https://hastie.su.domains/Papers/ESLII.pdf](here).
-
-- Probabilistic Machine Learning: An Introduction by Kevin Murphy. Available as PDF [https://probml.github.io/pml-book/book1.html](here).
-
-- Understanding Machine Learning: From Theory to Algorithms, by Shai Shalev-Shwartz and Shai Ben-David. Available as PDF [https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf](here). Refer to this book for a more theoretical exposition of the material covered in class.
 
 ## Grading
 
