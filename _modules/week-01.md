@@ -1,5 +1,5 @@
 ---
-title: Introduction to Java
+title: CIS5200 Machine Learning
 ---
 
 Jan 12
@@ -17,6 +17,9 @@ Jan 19
 : **Lecture**{: .label .label-purple } Linear Regression, Least Squares
   : [Slides](#)
 : *Instructor: Surbhi*
+
+Jan 20
+: : **HW 0 due**{: .label .label-red }
 
 Jan 24
 : **Lecture**{: .label .label-purple } Clustering, K-Means
@@ -60,7 +63,6 @@ Feb 16
 
 Feb 21
 : **Midterm**{: .label .label-red }
-  :
 
 Feb 23
 : **Lecture**{: .label .label-purple } HMMs
@@ -79,11 +81,9 @@ Mar 2
 
 Mar 7
 : **Spring Break**{: .label .label-blue } 
-  :
 
 Mar 9
 : **Spring Break**{: .label .label-blue } 
-  :
 
 Mar 14
 : **Lecture**{: .label .label-purple } VC Theory
