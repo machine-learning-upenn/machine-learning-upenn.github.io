@@ -19,7 +19,10 @@ Jan 19
 : *Instructor: Surbhi*
 
 Jan 20
-: : **HW 0 due**{: .label .label-red }
+: **HW 0 due**{: .label .label-red }
+
+Jan 23
+: **HW 1 out**{: .label .label-red }
 
 Jan 24
 : **Lecture**{: .label .label-purple } Clustering, K-Means
@@ -41,6 +44,12 @@ Feb 2
   : [Slides](#)
 : *Instructor: Eric*
 
+Feb 3
+: **HW 1 due**{: .label .label-red }
+
+Feb 6
+: **HW 2 out**{: .label .label-red }
+
 Feb 7
 : **Lecture**{: .label .label-purple } Kernels
   : [Slides](#)
@@ -61,13 +70,19 @@ Feb 16
   : [Slides](#)
 : *Instructor: Eric*
 
-Feb 21
-: **Midterm**{: .label .label-red }
+Feb 17
+: **HW 2 due**{: .label .label-red }
 
-Feb 23
+Feb 21
 : **Lecture**{: .label .label-purple } HMMs
   : [Slides](#)
 : *Instructor: Eric*
+
+Feb 23
+: **Midterm**{: .label .label-red }
+
+Feb 27
+: **HW 3 out**{: .label .label-red }
 
 Feb 28
 : **Lecture**{: .label .label-purple } MCMC
@@ -95,6 +110,12 @@ Mar 16
   : [Slides](#)
 : *Instructor: Surbhi*
 
+Mar 17
+: **HW 3 due**{: .label .label-red }
+
+Mar 20
+: **HW 4 out**{: .label .label-red }
+
 Mar 21
 : **Lecture**{: .label .label-purple } Decision Trees
   : [Slides](#)
@@ -114,6 +135,12 @@ Mar 30
 : **Lecture**{: .label .label-purple } Neural Networks (1)
   : [Slides](#)
 : *Instructor: Surbhi*
+
+Mar 31
+: **HW 4 due**{: .label .label-red }
+
+Apr 3
+: **HW 5 out**{: .label .label-red }
 
 Apr 4
 : **Lecture**{: .label .label-purple } Neural Networks (2)
@@ -135,6 +162,12 @@ Apr 13
   : [Slides](#)
 : *Instructor: TBD*
 
+Apr 14
+: **HW 5 due**{: .label .label-red }
+
+Apr 17
+: **HW 6 out**{: .label .label-red }
+
 Apr 18
 : **Lecture**{: .label .label-purple } Applications: Vision
   : [Slides](#)
@@ -149,3 +182,6 @@ Apr 25
 : **Lecture**{: .label .label-purple } Introspection: Challenges and Risks of ML
   : [Slides](#)
 : *Instructor: Eric and Surbhi*
+
+Apr 26
+: **HW 6 due**{: .label .label-red }
