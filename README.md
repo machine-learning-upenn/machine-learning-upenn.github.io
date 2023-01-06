@@ -44,6 +44,8 @@ Note that we will not be recording the lectures, so we highly encourage attendin
 
 We will not be explicitly following any single textbook in this course. The following books are useful for supplementary reading.
 
+- Machine Learning by Tom Mitchell. Available as PDF [here](http://www.cs.cmu.edu/~tom/mlbook.html). A classic introduction to machine learning that assumes no knowledge of statistics or artificial intelligent. 
+
 - Elements of Statistical Learning by Trevor Hastie, Robert Tibshirani and Jerome Friedman. Available as PDF [here](https://hastie.su.domains/Papers/ESLII.pdf]).
 
 - Probabilistic Machine Learning: An Introduction by Kevin Murphy. Available as PDF [here](https://probml.github.io/pml-book/book1.html).
