@@ -10,12 +10,12 @@ seo:
 
 # CIS 5200 Machine Learning (Spring 2023)
 
-- **Lecture time**: Tuesdays and Thursdays 1:45-3:15 pm
+- **Lecture time**: Tuesdays and Thursdays 1:45-3:15 PM
 - **Lecture location**: TBA
 - **Instructors**: [Surbhi Goel](https://www.surbhigoel.com) (surbhig) and [Eric Wong](https://www.cis.upenn.edu/~exwong/) (exwong)
 - **Head TAs**: Keshav Ramji, and Wendi Zhang
 - **TAs**: Abhinav Atrishi, Jordan Hochman, Bowen Jiang, Pavlos Kallinikidis, William Liang, Heyi Liu, David Zhi LuoZhang, Aryan Nagariya, Jeffrey Pan, Aditya Pratap Singh, and Tianyi Wei
-- **Office Hours**: TBA
+- **Office Hours**: Keshav (Tuesday 5:30-6:30 and Thursday 6-7:30, Levine 512), Wendi (Friday 12-2 PM), Abhinav (Tuesday 1:30-2:30 and Saturday 11-12, Levine 512), Jordan (Tuesday 5:15-7:15, Levine 512), Bowen (Wednesday 2:30-3:30 in Levine 615, Friday 2:30-3:30 in GRW 5th Floor Bump Space), William (Tuesday 1-3, Levine 512), David (Friday 2-3, GRW 5th Floor Bump Space), Jeffrey (Tuesday 12-1 and Friday 2-3, GRW 5th Floor Bump Space), Aditya (Tuesday 12-1:30, GRW 5th Floor Bump Space), Tianyi (Thursday 12-1 and Friday 1-2, GRW 5th Floor Bump Space)
 - **Questions**: We will be using ed for all course communications. We encourage you to ask and answer any questions about the class (including homeworks, course schedule, exams, etc.) on ed. You can post privately on ed to contact the course staff (including instructors), if needed.
 
 
@@ -44,7 +44,7 @@ Note that we will not be recording the lectures, so we highly encourage attendin
 
 We will not be explicitly following any single textbook in this course. The following books are useful for supplementary reading.
 
-- Machine Learning by Tom Mitchell. Available as PDF [here](http://www.cs.cmu.edu/~tom/mlbook.html). A classic introduction to machine learning that assumes no knowledge of statistics or artificial intelligent. 
+- Machine Learning by Tom Mitchell. Available as PDF [here](http://www.cs.cmu.edu/~tom/mlbook.html). A classic introduction to machine learning that assumes no knowledge of statistics or artificial intelligence. 
 
 - Elements of Statistical Learning by Trevor Hastie, Robert Tibshirani and Jerome Friedman. Available as PDF [here](https://hastie.su.domains/Papers/ESLII.pdf]).
 
