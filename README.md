@@ -73,7 +73,8 @@ We will not be explicitly following any single textbook in this course. The foll
 | 6:00 PM  |    | Keshav + Jordan, Levine 512  |   | Keshav, Levine 512  |   |   |   |
 | 6:30 PM  |    | Jordan, Levine 512  |   | Keshav, Levine 512  |   |   |
 | 7:00 PM  |    | Ending 7:15 - Jordan, Levine 512; Aryan  |   | Keshav, Levine 512  |   |   |   |
-| 7:30 PM  |    | Aryan |  |   |   |  |   |
+| 7:30 PM  |    | Aryan |  |   |   |  |   |   
+
 
 Keshav: Tuesday 5:30-6:30 and Thursday 6-7:30, Levine 512   
 Wendi: Friday 12-2 PM       
