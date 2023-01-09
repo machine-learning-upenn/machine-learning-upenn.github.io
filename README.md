@@ -15,7 +15,7 @@ seo:
 - **Instructors**: [Surbhi Goel](https://www.surbhigoel.com) (surbhig) and [Eric Wong](https://www.cis.upenn.edu/~exwong/) (exwong)
 - **Head TAs**: Keshav Ramji, and Wendi Zhang
 - **TAs**: Abhinav Atrishi, Jordan Hochman, Bowen Jiang, Pavlos Kallinikidis, William Liang, Heyi Liu, David Zhi LuoZhang, Aryan Nagariya, Jeffrey Pan, Aditya Pratap Singh, and Tianyi Wei
-- **Office Hours**: Keshav (Tuesday 5:30-6:30 and Thursday 6-7:30, Levine 512), Wendi (Friday 12-2 PM), Abhinav (Tuesday 1:30-2:30 and Saturday 11-12, Levine 512), Jordan (Tuesday 5:15-7:15, Levine 512), Bowen (Wednesday 2:30-3:30 in Levine 615, Friday 2:30-3:30 in GRW 5th Floor Bump Space), William (Tuesday 1-3, Levine 512), David (Friday 2-3, GRW 5th Floor Bump Space), Jeffrey (Tuesday 12-1 and Friday 2-3, GRW 5th Floor Bump Space), Aditya (Tuesday 12-1:30, GRW 5th Floor Bump Space), Tianyi (Thursday 12-1 and Friday 1-2, GRW 5th Floor Bump Space)
+- **Office Hours**: See Schedule Below
 - **Questions**: We will be using ed for all course communications. We encourage you to ask and answer any questions about the class (including homeworks, course schedule, exams, etc.) on ed. You can post privately on ed to contact the course staff (including instructors), if needed.
 
 
@@ -51,3 +51,38 @@ We will not be explicitly following any single textbook in this course. The foll
 - Probabilistic Machine Learning: An Introduction by Kevin Murphy. Available as PDF [here](https://probml.github.io/pml-book/book1.html).
 
 - Understanding Machine Learning: From Theory to Algorithms, by Shai Shalev-Shwartz and Shai Ben-David. Available as PDF [here](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf). Refer to this book for a more theoretical exposition of the material covered in class.
+
+## Office Hours Schedule
+
+|  | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
+| ------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
+| 11:00 AM  |   |   |   |   |   | Abhinav, Levine 512  |   |
+| 11:30 AM  |   |   |   |  |   | Abhinav, Levine 512 |   |
+| 12:00 PM  |   | Aditya + Jeffrey, Levine 5th Floor Bump Space |   | Tianyi, Levine 5th Floor Bump Space | Wendi  |   |   |
+| 12:30 PM  |   | Aditya + Jeffrey, Levine 5th Floor Bump Space |   | Tianyi, Levine 5th Floor Bump Space | Wendi  |  |   |
+| 1:00 PM  |    | Aditya + Will, Levine 512 |   |  | Wendi + Tianyi, Levine 5th Floor Bump Space |   |  |
+| 1:30 PM  |    | Will + Abhinav, Levine 512  |   |   | Wendi + Tianyi, Levine 5th Floor Bump Space |   |   |
+| 2:00 PM  |    | Will + Abhinav, Levine 512  |   |   | Jeffrey + David, Levine 5th Floor Bump Space |   |   |
+| 2:30 PM  |    | Will, Levine 512  | Bowen, Levine 615  |   | Jeffrey + David + Bowen, Levine 5th Floor Bump Space |   |   |
+| 3:00 PM  |    |   | Bowen, Levine 615  |   |  Bowen, Levine 5th Floor Bump Space |  |   |
+| 3:30 PM  |    |   |   |   |   |  |   |
+| 4:00 PM  |    |   |   |   |   |   | Aryan  |
+| 4:30 PM  |    |   |   |   |   |   | Aryan  |
+| 5:00 PM  |    | Starting 5:15 - Jordan, Levine 512  |  |   |   |  |   |
+| 5:30 PM  |    | Keshav + Jordan, Levine 512  |  |   |   |  |   |
+| 6:00 PM  |    | Keshav + Jordan, Levine 512  |   | Keshav, Levine 512  |   |   |   |
+| 6:30 PM  |    | Jordan, Levine 512  |   | Keshav, Levine 512  |   |   |
+| 7:00 PM  |    | Ending 7:15 - Jordan, Levine 512; Aryan  |   | Keshav, Levine 512  |   |   |   |
+| 7:30 PM  |    | Aryan |  |   |   |  |   |
+
+Keshav: Tuesday 5:30-6:30 and Thursday 6-7:30, Levine 512   
+Wendi: Friday 12-2 PM       
+Abhinav: Tuesday 1:30-2:30 and Saturday 11-12, Levine 512   
+Jordan: Tuesday 5:15-7:15, Levine 512   
+Bowen: Wednesday 2:30-3:30 in Levine 615, Friday 2:30-3:30 in GRW 5th Floor Bump Space   
+William: Tuesday 1-3, Levine 512   
+David: Friday 2-3, GRW 5th Floor Bump Space   
+Jeffrey: Tuesday 12-1 and Friday 2-3, GRW 5th Floor Bump Space   
+Aditya: Tuesday 12-1:30, GRW 5th Floor Bump Space   
+Tianyi: Thursday 12-1 and Friday 1-2, GRW 5th Floor Bump Space   
+
