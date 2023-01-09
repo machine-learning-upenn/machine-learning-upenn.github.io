@@ -76,14 +76,15 @@ We will not be explicitly following any single textbook in this course. The foll
 | 7:30 PM  |    | Aryan |  |   |   |  |   |   
 
 
-Keshav: Tuesday 5:30-6:30 and Thursday 6-7:30, Levine 512   
+Keshav: Tuesday 5:30-6:30 PM and Thursday 6-7:30 PM, Levine 512   
 Wendi: Friday 12-2 PM       
-Abhinav: Tuesday 1:30-2:30 and Saturday 11-12, Levine 512   
-Jordan: Tuesday 5:15-7:15, Levine 512   
-Bowen: Wednesday 2:30-3:30 in Levine 615, Friday 2:30-3:30 in GRW 5th Floor Bump Space   
-William: Tuesday 1-3, Levine 512   
-David: Friday 2-3, GRW 5th Floor Bump Space   
-Jeffrey: Tuesday 12-1 and Friday 2-3, GRW 5th Floor Bump Space   
-Aditya: Tuesday 12-1:30, GRW 5th Floor Bump Space   
-Tianyi: Thursday 12-1 and Friday 1-2, GRW 5th Floor Bump Space   
+Abhinav: Tuesday 1:30-2:30 PM and Saturday 11 AM - 12 PM, Levine 512   
+Jordan: Tuesday 5:15-7:15 PM, Levine 512   
+Bowen: Wednesday 2:30-3:30 PM in Levine 615, Friday 2:30-3:30 PM in GRW 5th Floor Bump Space   
+William: Tuesday 1-3 PM, Levine 512   
+David: Friday 2-3 PM, GRW 5th Floor Bump Space
+Aryan: Tuesday 7-8 PM and Sunday 4-5 PM
+Jeffrey: Tuesday 12-1 PM and Friday 2-3 PM, GRW 5th Floor Bump Space
+Aditya: Tuesday 12-1:30 PM, GRW 5th Floor Bump Space   
+Tianyi: Thursday 12-1 PM and Friday 1-2 PM, GRW 5th Floor Bump Space   
 
