@@ -56,14 +56,14 @@ We will not be explicitly following any single textbook in this course. The foll
 
 |  | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 | ------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
-| 11:00 AM  |   |   |   |   |   | Abhinav, Levine 512  |   |
-| 11:30 AM  |   |   |   |  |   | Abhinav, Levine 512 |   |
+| 11:00 AM  |   |   |   | Heyi, Levine 5th Floor Bump Space  |   | Abhinav, Levine 512  |   |
+| 11:30 AM  |   |   |   | Heyi, Levine 5th Floor Bump Space |   | Abhinav, Levine 512 |   |
 | 12:00 PM  |   | Aditya + Jeffrey, Levine 5th Floor Bump Space |   | Tianyi, Levine 5th Floor Bump Space | Wendi  |   |   |
 | 12:30 PM  |   | Aditya + Jeffrey, Levine 5th Floor Bump Space |   | Tianyi, Levine 5th Floor Bump Space | Wendi  |  |   |
 | 1:00 PM  |    | Aditya + Will, Levine 512 |   |  | Wendi + Tianyi, Levine 5th Floor Bump Space |   |  |
 | 1:30 PM  |    | Will + Abhinav, Levine 512  |   |   | Wendi + Tianyi, Levine 5th Floor Bump Space |   |   |
-| 2:00 PM  |    | Will + Abhinav, Levine 512  |   |   | Jeffrey + David, Levine 512 |   |   |
-| 2:30 PM  |    | Will, Levine 512  | Bowen, Levine 615  |   | Jeffrey + David, Levine 512; Bowen, Levine 5th Floor Bump Space |   |   |
+| 2:00 PM  |    | Will + Abhinav, Levine 512; David, Levine 5th Floor Bump Space  |   |   | Jeffrey + David, Levine 512 |   |   |
+| 2:30 PM  |    | Will, Levine 512; David, Levine 5th Floor Bump Space  | Bowen, Levine 615  |   | Jeffrey + David, Levine 512; Bowen, Levine 5th Floor Bump Space |   |   |
 | 3:00 PM  |    |   | Bowen, Levine 615  |   |  Bowen, Levine 5th Floor Bump Space |  |   |
 | 3:30 PM  |    |   |   |   |   |  |   |
 | 4:00 PM  |    |   |   |   |   |   | Aryan  |
@@ -74,17 +74,3 @@ We will not be explicitly following any single textbook in this course. The foll
 | 6:30 PM  |    | Jordan, Levine 512  |   | Keshav, Levine 512  |   |   |
 | 7:00 PM  |    | Ending 7:15 - Jordan, Levine 512; Aryan  |   | Keshav, Levine 512  |   |   |   |
 | 7:30 PM  |    | Aryan |  |   |   |  |   |   
-
-
-Keshav: Tuesday 5:30-6:30 PM and Thursday 6-7:30 PM, Levine 512   
-Wendi: Friday 12-2 PM       
-Abhinav: Tuesday 1:30-2:30 PM and Saturday 11 AM - 12 PM, Levine 512   
-Jordan: Tuesday 5:15-7:15 PM, Levine 512   
-Bowen: Wednesday 2:30-3:30 PM in Levine 615, Friday 2:30-3:30 PM in GRW 5th Floor Bump Space   
-William: Tuesday 1-3 PM, Levine 512   
-David: Friday 2-3 PM, GRW 5th Floor Bump Space
-Aryan: Tuesday 7-8 PM and Sunday 4-5 PM
-Jeffrey: Tuesday 12-1 PM and Friday 2-3 PM, GRW 5th Floor Bump Space
-Aditya: Tuesday 12-1:30 PM, GRW 5th Floor Bump Space   
-Tianyi: Thursday 12-1 PM and Friday 1-2 PM, GRW 5th Floor Bump Space   
-
