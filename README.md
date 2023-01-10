@@ -18,7 +18,7 @@ seo:
 - **Office Hours**: See Schedule Below
 - **Questions**: We will be using ed for all course communications. We encourage you to ask and answer any questions about the class (including homeworks, course schedule, exams, etc.) on ed. You can post privately on ed to contact the course staff (including instructors), if needed.
 
-**Waitlist information**: To get off the waitlist, complete Homework 0 and send your solutions to the Head TAs. Permission for remaining seats will be granted to those that complete Homework 0. 
+**Waitlist information**: To get off the waitlist, complete Homework 0 and send your solutions to the Head TAs. Permission for remaining seats will be granted to those that complete Homework 0. If you find Homework 0 to be very time consuming and extremely difficult, this course may not be right for you. 
 
 ## Course Overview
 
