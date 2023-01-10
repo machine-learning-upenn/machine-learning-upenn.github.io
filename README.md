@@ -62,8 +62,8 @@ We will not be explicitly following any single textbook in this course. The foll
 | 12:30 PM  |   | Aditya + Jeffrey, Levine 5th Floor Bump Space |   | Tianyi, Levine 5th Floor Bump Space | Wendi  |  |   |
 | 1:00 PM  |    | Aditya + Will, Levine 512 |   |  | Wendi + Tianyi, Levine 5th Floor Bump Space |   |  |
 | 1:30 PM  |    | Will + Abhinav, Levine 512  |   |   | Wendi + Tianyi, Levine 5th Floor Bump Space |   |   |
-| 2:00 PM  |    | Will + Abhinav, Levine 512  |   |   | Jeffrey + David, Levine 5th Floor Bump Space |   |   |
-| 2:30 PM  |    | Will, Levine 512  | Bowen, Levine 615  |   | Jeffrey + David + Bowen, Levine 5th Floor Bump Space |   |   |
+| 2:00 PM  |    | Will + Abhinav, Levine 512  |   |   | Jeffrey + David, Levine 512 |   |   |
+| 2:30 PM  |    | Will, Levine 512  | Bowen, Levine 615  |   | Jeffrey + David, Levine 512; Bowen, Levine 5th Floor Bump Space |   |   |
 | 3:00 PM  |    |   | Bowen, Levine 615  |   |  Bowen, Levine 5th Floor Bump Space |  |   |
 | 3:30 PM  |    |   |   |   |   |  |   |
 | 4:00 PM  |    |   |   |   |   |   | Aryan  |
