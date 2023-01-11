@@ -62,16 +62,16 @@ We will not be explicitly following any single textbook in this course. The foll
 | 12:00 PM  |   | Aditya + Jeffrey, Levine 5th Floor Bump Space |   | Wendi + Tianyi, Levine 5th Floor Bump Space |   |   |   |
 | 12:30 PM  |   | Aditya + Jeffrey, Levine 5th Floor Bump Space |   | Wendi + Tianyi, Levine 5th Floor Bump Space |   |  |   |
 | 1:00 PM  |    | Aditya + Will, Levine 512 |   | Wendi, Levine 512 | Tianyi, Levine 5th Floor Bump Space |   |  |
-| 1:30 PM  |    | Will + Abhinav, Levine 512  |   | Wendi, Levine 512 | Tianyi, Levine 5th Floor Bump |   |   |
+| 1:30 PM  |    | Aditya + Will + Abhinav, Levine 512  |   | Wendi, Levine 512 | Tianyi, Levine 5th Floor Bump |   |   |
 | 2:00 PM  |    | Will + Abhinav, Levine 512; David, Levine 5th Floor Bump Space  |   |   | Jeffrey + David, Levine 512 |   |   |
 | 2:30 PM  |    | Will, Levine 512; David, Levine 5th Floor Bump Space  | Bowen, Levine 615  |   | Jeffrey + David, Levine 512; Bowen, Levine 5th Floor Bump Space |   |   |
 | 3:00 PM  |    |   | Bowen, Levine 615  |   |  Bowen, Levine 5th Floor Bump Space |  |   |
 | 3:30 PM  |    |   |   |   |   |  |   |
-| 4:00 PM  |    |   |   |   |   |   | Aryan  |
-| 4:30 PM  |    |   |   |   |   |   | Aryan  |
+| 4:00 PM  |    |   |   |   |   |   | Aryan, OHQ  |
+| 4:30 PM  |    |   |   |   |   |   | Aryan, OHQ  |
 | 5:00 PM  |    | Starting 5:15 - Jordan, Levine 512  |  |   |   |  |   |
 | 5:30 PM  |    | Keshav + Jordan, Levine 512  |  |   |   |  |   |
 | 6:00 PM  |    | Keshav + Jordan, Levine 512  |   | Keshav, Levine 512  |   |   |   |
 | 6:30 PM  |    | Jordan, Levine 512  |   | Keshav, Levine 512  |   |   |
-| 7:00 PM  |    | Ending 7:15 - Jordan, Levine 512; Aryan  |   | Keshav, Levine 512  |   |   |   |
-| 7:30 PM  |    | Aryan |  |   |   |  |   |   
+| 7:00 PM  |    | Ending 7:15 - Jordan, Levine 512; Aryan, OHQ  |   | Keshav, Levine 512  |   |   |   |
+| 7:30 PM  |    | Aryan, OHQ |  |   |   |  |   |   
