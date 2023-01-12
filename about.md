@@ -26,7 +26,7 @@ Homeworks will be posted on Mondays, every two weeks except for the week of the 
 
 ### Exams
 
-There will be two exams: (1) a Midterm exam to be held on February 21, 2023 during the lecture, and (2) a Final exam to be held in May (date/time TBA).
+There will be two exams: (1) a Midterm exam to be held on February 23, 2023 during the lecture, and (2) a Final exam to be held in May (date/time TBA).
 
 ## Regrading
 
