@@ -30,7 +30,7 @@ There will be two exams: (1) a Midterm exam to be held on February 23, 2023 duri
 
 ## Regrading
 
-If you would like a regrade of an assignment or exam, you must submit your request within 1 week from the date when grades are released. All requests must be made through Gradescope with a written explanation of the concern. They will not be entertained suring the OHs or lectures.
+If you would like a regrade of an assignment or exam, you must submit your request within 1 week from the date when grades are released. All requests must be made through Gradescope with a written explanation of the concern. They will not be entertained during the OHs or lectures.
 
 ## Collaboration
 
