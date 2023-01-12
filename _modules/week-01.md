@@ -4,18 +4,18 @@ title: CIS5200 Machine Learning
 
 Jan 12
 : **Lecture**{: .label .label-purple } Introduction & Course Overview
-  : [Slides](#)
+  <!-- : [Slides](#) -->
 : *Instructor: Eric and Surbhi*
 : **HW 0 out**{: .label .label-red }
 
 Jan 17
 : **Lecture**{: .label .label-purple } Binary Classification, Perceptron
-  : [Slides](#)
+  <!-- : [Slides](#) -->
 : *Instructor: Surbhi*
 
 Jan 19
 : **Lecture**{: .label .label-purple } Linear Regression, Logistic Regression
-  : [Slides](#)
+  <!-- : [Slides](#) -->
 : *Instructor: Surbhi*
 
 Jan 20
@@ -26,22 +26,22 @@ Jan 23
 
 Jan 24
 : **Lecture**{: .label .label-purple } Clustering, K-Means
-  : [Slides](#)
+  <!-- : [Slides](#) -->
 : *Instructor: Eric*
 
 Jan 26
 : **Lecture**{: .label .label-purple } Gaussian Mixture Models, EM
-  : [Slides](#)
+  <!-- : [Slides](#) -->
 : *Instructor: Eric*
 
 Jan 31
 : **Lecture**{: .label .label-purple } PCA, ICA
-  : [Slides](#)
+  <!-- : [Slides](#) -->
 : *Instructor: Eric*
 
 Feb 2
 : **Lecture**{: .label .label-purple } Linear Programs, Duality, Quadratic Programs
-  : [Slides](#)
+  <!-- : [Slides](#) -->
 : *Instructor: Eric*
 
 Feb 3
@@ -52,22 +52,22 @@ Feb 6
 
 Feb 7
 : **Lecture**{: .label .label-purple } Kernels
-  : [Slides](#)
+  <!-- : [Slides](#) -->
 : *Instructor: Surbhi*
 
 Feb 9
 : **Lecture**{: .label .label-purple } Support Vector Machines (SVMs)
-  : [Slides](#)
+  <!-- : [Slides](#) -->
 : *Instructor: Surbhi*
 
 Feb 14
 : **Lecture**{: .label .label-purple } Convex Optimization
-  : [Slides](#)
+  <!-- : [Slides](#) -->
 : *Instructor: Surbhi*
 
 Feb 16
 : **Lecture**{: .label .label-purple } Non-convex Optimization
-  : [Slides](#)
+  <!-- : [Slides](#) -->
 : *Instructor: Eric*
 
 Feb 17
@@ -75,7 +75,7 @@ Feb 17
 
 Feb 21
 : **Lecture**{: .label .label-purple } HMMs
-  : [Slides](#)
+  <!-- : [Slides](#) -->
 : *Instructor: Eric*
 
 Feb 23
@@ -83,12 +83,12 @@ Feb 23
 
 Feb 28
 : **Lecture**{: .label .label-purple } MCMC
-  : [Slides](#)
+  <!-- : [Slides](#) -->
 : *Instructor: Eric*
 
 Mar 2
 : **Lecture**{: .label .label-purple } PAC Learning
-  : [Slides](#)
+  <!-- : [Slides](#) -->
 : *Instructor: Surbhi*
 
 Mar 7
@@ -102,22 +102,22 @@ Mar 13
 
 Mar 14
 : **Lecture**{: .label .label-purple } VC Theory
-  : [Slides](#)
+  <!-- : [Slides](#) -->
 : *Instructor: Surbhi*
 
 Mar 16
 : **Lecture**{: .label .label-purple } Bias/Variance Tradeoff
-  : [Slides](#)
+  <!-- : [Slides](#) -->
 : *Instructor: Surbhi*
 
 Mar 21
 : **Lecture**{: .label .label-purple } Decision Trees
-  : [Slides](#)
+  <!-- : [Slides](#) -->
 : *Instructor: Eric*
 
 Mar 23
 : **Lecture**{: .label .label-purple } Bagging, Random Forests
-  : [Slides](#)
+  <!-- : [Slides](#) -->
 : *Instructor: Eric*
 
 Mar 24
@@ -128,22 +128,22 @@ Mar 27
 
 Mar 28
 : **Lecture**{: .label .label-purple } Boosting
-  : [Slides](#)
+  <!-- : [Slides](#) -->
 : *Instructor: Surbhi*
 
 Mar 30
 : **Lecture**{: .label .label-purple } Neural Networks (1)
-  : [Slides](#)
+  <!-- : [Slides](#) -->
 : *Instructor: Surbhi*
 
 Apr 4
 : **Lecture**{: .label .label-purple } Neural Networks (2)
-  : [Slides](#)
+  <!-- : [Slides](#) -->
 : *Instructor: Eric*
 
 Apr 6
 : **Lecture**{: .label .label-purple } Active Learning
-  : [Slides](#)
+  <!-- : [Slides](#) -->
 : *Instructor: Eric*
 
 Apr 7
@@ -154,17 +154,17 @@ Apr 10
 
 Apr 11
 : **Lecture**{: .label .label-purple } Online Learning
-  : [Slides](#)
+  <!-- : [Slides](#) -->
 : *Instructor: Surbhi*
 
 Apr 13
 : **Lecture**{: .label .label-purple } Reinforcement Learning
-  : [Slides](#)
+  <!-- : [Slides](#) -->
 : *Instructor: TBD*
 
 Apr 18
 : **Lecture**{: .label .label-purple } Applications: Vision
-  : [Slides](#)
+  <!-- : [Slides](#) -->
 : *Instructor: Guest Speaker (TBA)*
 
 Apr 19
@@ -172,10 +172,10 @@ Apr 19
 
 Apr 20
 : **Lecture**{: .label .label-purple } Applications: Language
-  : [Slides](#)
+  <!-- : [Slides](#) -->
 : *Instructor: Guest Speaker (TBA)*
 
 Apr 25
 : **Lecture**{: .label .label-purple } Introspection: Challenges and Risks of ML
-  : [Slides](#)
+  <!-- : [Slides](#) -->
 : *Instructor: Eric and Surbhi*
