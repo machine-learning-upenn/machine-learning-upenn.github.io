@@ -4,13 +4,12 @@ title: CIS5200 Machine Learning
 
 Jan 12
 : **Lecture**{: .label .label-purple } Introduction & Course Overview
-  <!-- : [Slides](#) -->
+  : [Slides](../assets/slides/Lec1.pdf), [Notes](../assets/notes/Lec1.pdf)
 : *Instructor: Eric and Surbhi*
 : **HW 0 out**{: .label .label-red }
 
 Jan 17
 : **Lecture**{: .label .label-purple } Binary Classification, Perceptron
-  : [Slides,](../assets/slides/Lec1.pdf) [Notes](../assets/notes/Lec1.pdf)
 : *Instructor: Surbhi*
 
 Jan 19
