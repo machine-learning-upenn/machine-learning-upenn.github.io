@@ -9,12 +9,12 @@ Jan 12
 : **HW 0 out**{: .label .label-red }
 
 Jan 17
-: **Lecture**{: .label .label-purple } Binary Classification, Perceptron, Logistic Regression
+: **Lecture**{: .label .label-purple } Binary Classification, Perceptron
   : [Slides](#)
 : *Instructor: Surbhi*
 
 Jan 19
-: **Lecture**{: .label .label-purple } Linear Regression, Least Squares
+: **Lecture**{: .label .label-purple } Linear Regression, Logistic Regression
   : [Slides](#)
 : *Instructor: Surbhi*
 
