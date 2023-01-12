@@ -18,7 +18,7 @@ description: >-
 
 ## Grading
 
-Your grade will be based on three components: **Homeworks 50% (HW0:Required (not graded), HW1-HW5: 10% each); Midterm 20%; Final 30%**.
+Your grade will be based on three components: **Homeworks 50% (HW0: Required (2%), HW1-HW4: 10% each, HW5: 8%); Midterm 20%; Final 30%**.
 
 ### Homeworks
 
