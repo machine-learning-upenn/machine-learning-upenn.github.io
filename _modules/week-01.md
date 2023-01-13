@@ -7,6 +7,7 @@ Jan 12
   : [Slides](../assets/slides/Lec1.pdf), [Notes](../assets/notes/Lec1.pdf)
 : *Instructor: Eric and Surbhi*
 : **HW 0 out**{: .label .label-red }
+  : [HW 0 Assignment] (../assets/hws/hw0.pdf)
 
 Jan 17
 : **Lecture**{: .label .label-purple } Binary Classification, Perceptron
