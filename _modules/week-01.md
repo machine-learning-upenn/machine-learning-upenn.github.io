@@ -11,7 +11,7 @@ Jan 12
 
 Jan 17
 : **Lecture**{: .label .label-purple } Binary Classification, Perceptron
-  : [Slides](../assets/slides/Lec2.pdf)
+  : [Slides](../assets/slides/Lec2.pdf), [Notes](../assets/notes/Lec2.pdf)
 : *Instructor: Surbhi*
 
 Jan 19
