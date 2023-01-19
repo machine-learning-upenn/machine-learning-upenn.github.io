@@ -57,10 +57,10 @@ We will not be explicitly following any single textbook in this course. The foll
 
 |  | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 | ------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
-| 11:00 AM  |   |   |   | Heyi, Levine 5th Floor Bump Space  |   | Abhinav, Levine 512  |   |
-| 11:30 AM  |   | Aditya, OHQ |   | Wendi + Heyi, Levine 5th Floor Bump Space |   | Abhinav, Levine 512 |   |
-| 12:00 PM  |   | Aditya + Jeffrey, Levine 5th Floor Bump Space |   | Wendi + Tianyi + Heyi, Levine 5th Floor Bump Space |   |   |   |
-| 12:30 PM  |   | Aditya + Jeffrey, Levine 5th Floor Bump Space |   | Wendi + Tianyi + Heyi, Levine 5th Floor Bump Space |   |  |   |
+| 11:00 AM  |   |   |   | Tianyi + Heyi, Levine 5th Floor Bump Space  |   | Abhinav, Levine 512  |   |
+| 11:30 AM  |   | Aditya, OHQ |   | Tianyi + Heyi, Levine 5th Floor Bump Space |   | Abhinav, Levine 512 |   |
+| 12:00 PM  |   | Aditya + Jeffrey, Levine 5th Floor Bump Space |   | Wendi + Heyi, Levine 5th Floor Bump Space |   |   |   |
+| 12:30 PM  |   | Aditya + Jeffrey, Levine 5th Floor Bump Space |   | Wendi + Heyi, Levine 5th Floor Bump Space |   |  |   |
 | 1:00 PM  |    | Aditya, Levine 512 |   | Wendi, Levine 512 | Tianyi, Levine 5th Floor Bump Space; Aryan, OHQ |   |  |
 | 1:30 PM  |    |  |   |  | Tianyi, Levine 5th Floor Bump; Aryan, OHQ |   |   |
 | 2:00 PM  |    |   |   |   | Jeffrey + David, Levine 512 |   |   |
