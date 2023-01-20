@@ -16,7 +16,8 @@ Jan 17
 
 Jan 19
 : **Lecture**{: .label .label-purple } Linear Regression, Logistic Regression
-  : [Slides](../assets/slides/Lec3.pdf)
+  : [Slides](../assets/slides/Lec3.pdf), [Notes](../assets/notes/Lec3.pdf)
+
 : *Instructor: Surbhi*
 
 Jan 20
