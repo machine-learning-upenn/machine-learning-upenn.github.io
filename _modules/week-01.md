@@ -25,6 +25,7 @@ Jan 20
 
 Jan 23
 : **HW 1 out**{: .label .label-red }
+  : [HW 1 Assignment](../assets/hws/hw1.pdf)
 
 Jan 24
 : **Lecture**{: .label .label-purple } Clustering, K-Means
