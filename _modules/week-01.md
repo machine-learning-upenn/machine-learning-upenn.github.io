@@ -29,7 +29,7 @@ Jan 23
 
 Jan 24
 : **Lecture**{: .label .label-purple } Clustering, K-Means
-  <!-- : [Slides](#) -->
+  : [Risk Reading (Section 1.2)](https://arxiv.org/abs/2105.04026), [K-Means Reading](https://www.cs.cornell.edu/courses/cs4780/2022sp/notes/LectureNotes04.html)
 : *Instructor: Eric*
 
 Jan 26
