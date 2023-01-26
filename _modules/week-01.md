@@ -34,6 +34,7 @@ Jan 24
 
 Jan 26
 : **Lecture**{: .label .label-purple } Gaussian Mixture Models, EM
+  : [Mixtures of Gaussians and the EM algorithm Reading](http://cs229.stanford.edu/notes2020spring/cs229-notes7b.pdf)
   <!-- : [Slides](#) -->
 : *Instructor: Eric*
 
