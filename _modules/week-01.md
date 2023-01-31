@@ -40,6 +40,8 @@ Jan 26
 
 Jan 31
 : **Lecture**{: .label .label-purple } PCA, ICA
+  : [Principal Components Analysis (PCA) and Dimensionality Reduction](https://cs229.stanford.edu/notes2020spring/cs229-notes10.pdf),
+  [Independent Components Analysis (ICA)](https://cs229.stanford.edu/notes2020spring/cs229-notes11.pdf)
   <!-- : [Slides](#) -->
 : *Instructor: Eric*
 
