@@ -55,7 +55,7 @@ We will not be explicitly following any single textbook in this course. The foll
 
 
 The following are helpful resources to review the mathematics that we will use in this course:
-- Mathematics for Machine Learning (MML) by Marc Deisenroth, A. Aldo Faisal, and Cheng Soon Ong. Available as PDF [here](https://mml-book.github.io/book/mml-book.pdf). A helpful resource to review the mathematics that we will use in this course. 
+- Mathematics for Machine Learning (MML) by Marc Deisenroth, A. Aldo Faisal, and Cheng Soon Ong. Available as PDF [here](https://mml-book.github.io/book/mml-book.pdf).
 
 - Linear Algebra Review and Reference by Zico Kolter. Available as PDF [here](http://www.cs.cmu.edu/~zkolter/course/15-884/linalg-review.pdf). 
 
