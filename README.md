@@ -73,5 +73,9 @@ We will not be explicitly following any single textbook in this course. The foll
 | 5:30 PM  |    | Jordan + Abhinav, Levine 512  |  | Will, Levine 512  |   |  |   |
 | 6:00 PM  |    | Jordan, Levine 512  | David, Levine 5th Floor Bump Space  | Keshav, Levine 512  |   |   |   |
 | 6:30 PM  |    | Jordan, Levine 512  | David, Levine 5th Floor Bump Space  | Keshav, Levine 512  |   |   |
-| 7:00 PM  |    | Ending 7:15 - Jordan, Levine 512; Aryan, OHQ  |   | Keshav, Levine 512  |   |   |   |
-| 7:30 PM  |    | Aryan, OHQ |  | Keshav, Levine 512  |   |  |   |   
+| 7:00 PM  |    | Ending 7:15 - Jordan, Levine 512;  |   | Keshav, Levine 512  |   |   |   |
+| 7:30 PM  |    |  |  |  |   |  |   |   
+| 8:00 PM  |    |  |  |   |   |  |   |   
+| 8:30 PM  |    | |  |   |   |  |   |   
+| 9:00 PM  |  | Aryan, OHQ |  |   |   |  |   |   
+| 9:30 PM  |  | Aryan, OHQ |  |   |   |  |   |   
