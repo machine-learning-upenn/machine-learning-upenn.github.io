@@ -53,6 +53,12 @@ We will not be explicitly following any single textbook in this course. The foll
 
 - Understanding Machine Learning: From Theory to Algorithms (UML) by Shai Shalev-Shwartz and Shai Ben-David. Available as PDF [here](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf). Refer to this book for a more detailed theoretical exposition of the material covered in class.
 
+
+The following are helpful resources to review the mathematics that we will use in this course:
+- Mathematics for Machine Learning (MML) by Marc Deisenroth, A. Aldo Faisal, and Cheng Soon Ong. Available as PDF [here](https://mml-book.github.io/book/mml-book.pdf). A helpful resource to review the mathematics that we will use in this course. 
+
+- Linear Algebra Review and Reference by Zico Kolter. Available as PDF [here](http://www.cs.cmu.edu/~zkolter/course/15-884/linalg-review.pdf). 
+
 ## Office Hours Schedule
 
 |  | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
