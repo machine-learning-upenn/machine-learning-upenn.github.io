@@ -16,7 +16,7 @@ seo:
 - **Instructor office hours**: Tuesdays at 3:30-4:30PM 
 - **Head TAs**: Keshav Ramji (keshavr), and Wendi Zhang (wendiz)
 - **TAs**: Abhinav Atrishi, Jordan Hochman, Bowen Jiang, Pavlos Kallinikidis, William Liang, Heyi Liu, David Zhi LuoZhang, Aryan Nagariya, Jeffrey Pan, Aditya Pratap Singh, and Tianyi Wei
-- **Office Hours**: See Schedule Below
+- **TA Office Hours**: See Schedule Below
 - **Questions**: We will be using Ed Discussion for all course communications. We encourage you to ask and answer any questions about the class (including homeworks, course schedule, exams, etc.) on Ed. You can post privately on Ed to contact the course staff (including instructors), if needed.
 
 **Waitlist information**: To get off the waitlist, complete Homework 0 and send your solutions to the Head TAs. Permission for remaining seats will be granted to those that complete Homework 0. If you find Homework 0 to be very time consuming and extremely difficult, this course may not be right for you. 
