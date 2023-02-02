@@ -47,6 +47,7 @@ Jan 31
 
 Feb 2
 : **Lecture**{: .label .label-purple } Linear Programs, Duality, Quadratic Programs
+  : [Duality, LP, QP notes (Section 3.3)](https://alex.smola.org/drafts/thebook.pdf)
   <!-- : [Slides](#) -->
 : *Instructor: Eric*
 
