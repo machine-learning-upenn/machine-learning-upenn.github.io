@@ -63,7 +63,7 @@ Feb 7
 : *Instructor: Surbhi*
 
 Feb 9
-: **Lecture**{: .label .label-purple } Kernels
+: **Lecture**{: .label .label-purple } Kernel Methods
   <!-- : [Slides](#) -->
 : *Instructor: Surbhi*
 
