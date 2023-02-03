@@ -13,7 +13,7 @@ seo:
 - **Lecture time**: Tuesdays and Thursdays 1:45-3:15 PM
 - **Lecture location**: TBA
 - **Instructors**: [Surbhi Goel](https://www.surbhigoel.com) (surbhig) and [Eric Wong](https://www.cis.upenn.edu/~exwong/) (exwong)
-- **Instructor office hours**: Tuesdays at 3:30-4:30PM 
+- **Instructor office hours**: Tuesdays at 3:30-4:30PM (Levine 505)
 - **Head TAs**: Keshav Ramji (keshavr), and Wendi Zhang (wendiz)
 - **TAs**: Abhinav Atrishi, Jordan Hochman, Bowen Jiang, Pavlos Kallinikidis, William Liang, Heyi Liu, David Zhi LuoZhang, Aryan Nagariya, Jeffrey Pan, Aditya Pratap Singh, and Tianyi Wei
 - **TA Office Hours**: See Schedule Below
