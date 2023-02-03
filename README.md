@@ -62,7 +62,7 @@ The following are helpful resources to review the mathematics that we will use i
 
 ## Office Hours Schedule
 
-### Google Calendar Link: https://calendar.google.com/calendar/embed?src=c_7e96d57b48b853f26b81bdc3a00066239328e093b587e49b735a9a6f025e5c98%40group.calendar.google.com&ctz=America%2FNew_York
+### [Google Calendar Link for Office Hours](https://calendar.google.com/calendar/embed?src=c_7e96d57b48b853f26b81bdc3a00066239328e093b587e49b735a9a6f025e5c98%40group.calendar.google.com&ctz=America%2FNew_York)
 
 
 |  | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
