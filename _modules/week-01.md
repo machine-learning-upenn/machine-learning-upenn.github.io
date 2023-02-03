@@ -58,12 +58,12 @@ Feb 6
 : **HW 2 out**{: .label .label-red }
 
 Feb 7
-: **Lecture**{: .label .label-purple } Kernels
+: **Lecture**{: .label .label-purple } Support Vector Machines (SVMs)
   <!-- : [Slides](#) -->
 : *Instructor: Surbhi*
 
 Feb 9
-: **Lecture**{: .label .label-purple } Support Vector Machines (SVMs)
+: **Lecture**{: .label .label-purple } Kernels
   <!-- : [Slides](#) -->
 : *Instructor: Surbhi*
 
