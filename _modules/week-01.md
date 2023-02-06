@@ -34,7 +34,7 @@ Jan 24
 
 Jan 26
 : **Lecture**{: .label .label-purple } Gaussian Mixture Models, EM
-  : [Mixture of Gaussian from K-Means Reading (same reading as Jan 24)](https://www.cs.cornell.edu/courses/cs4780/2022sp/notes/LectureNotes04.html), [Mixtures of Gaussians from log likelihood and the EM algorithm Reading](http://cs229.stanford.edu/notes2020spring/cs229-notes7b.pdf)
+  : [Mixture of Gaussian from K-Means Reading (same reading as Jan 24)](https://www.cs.cornell.edu/courses/cs4780/2022sp/notes/LectureNotes04.html), [Mixtures of Gaussians from log likelihood and the EM algorithm Reading](http://cs229.stanford.edu/notes2020spring/cs229-notes7b.pdf), [General EM algorithm Readding](https://cs229.stanford.edu/notes2020spring/cs229-notes8.pdf)
   <!-- : [Slides](#) -->
 : *Instructor: Eric*
 
