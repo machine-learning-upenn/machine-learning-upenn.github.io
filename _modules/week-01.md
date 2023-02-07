@@ -56,6 +56,7 @@ Feb 3
 
 Feb 6
 : **HW 2 out**{: .label .label-red }
+  : [HW 2 Assignment](../assets/hws/hw2.pdf)
 
 Feb 7
 : **Lecture**{: .label .label-purple } Support Vector Machines (SVMs)
