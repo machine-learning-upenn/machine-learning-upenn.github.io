@@ -68,7 +68,7 @@ The following are helpful resources to review the mathematics that we will use i
 |  | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 | ------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
 | 11:00 AM  |   |   |   | Tianyi + Heyi, Levine 5th Floor Bump Space  |   | Abhinav, Levine 512  |   |
-| 11:30 AM  |   | Aditya, OHQ |   | Tianyi + Heyi, Levine 5th Floor Bump Space |   | Abhinav, Levine 512 |   |
+| 11:30 AM  |   | Aditya, Levine 5th Floor Bump Space |   | Tianyi + Heyi, Levine 5th Floor Bump Space |   | Abhinav, Levine 512 |   |
 | 12:00 PM  | Pavlos, Levine 5th Floor Bump Space  | Aditya + Jeffrey, Levine 5th Floor Bump Space |   | Wendi + Heyi, Levine 5th Floor Bump Space |   |   |   |
 | 12:30 PM  | Pavlos, Levine 5th Floor Bump Space  | Aditya + Jeffrey, Levine 5th Floor Bump Space |   | Wendi + Heyi, Levine 5th Floor Bump Space |   |  |   |
 | 1:00 PM  | Pavlos, Levine 5th Floor Bump Space   | Aditya, Levine 512 |   |  | Tianyi, Levine 5th Floor Bump Space; Aryan, OHQ |   |  |
