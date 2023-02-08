@@ -60,8 +60,7 @@ Feb 6
 
 Feb 7
 : **Lecture**{: .label .label-purple } Support Vector Machines (SVMs)
-  : [Slides](../assets/slides/Lec8.pdf)
-  <!-- , [Notes](../assets/notes/Lec2.pdf) -->
+  : [Slides](../assets/slides/Lec8.pdf), [Notes](../assets/notes/Lec8.pdf) -->
 : *Instructor: Surbhi*
 
 Feb 9
