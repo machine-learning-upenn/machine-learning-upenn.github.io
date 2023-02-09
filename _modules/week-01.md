@@ -60,12 +60,13 @@ Feb 6
 
 Feb 7
 : **Lecture**{: .label .label-purple } Support Vector Machines (SVMs)
-  : [Slides](../assets/slides/Lec8.pdf), [Notes](../assets/notes/Lec8.pdf) -->
+  : [Slides](../assets/slides/Lec8.pdf), [Notes](../assets/notes/Lec8.pdf)
 : *Instructor: Surbhi*
 
 Feb 9
 : **Lecture**{: .label .label-purple } Kernel Methods
-  <!-- : [Slides](#) -->
+  : [Slides](../assets/slides/Lec9.pdf)
+  <!-- , [Notes](../assets/notes/Lec8.pdf) --> -->
 : *Instructor: Surbhi*
 
 Feb 14
