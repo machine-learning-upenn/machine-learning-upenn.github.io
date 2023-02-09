@@ -65,8 +65,7 @@ Feb 7
 
 Feb 9
 : **Lecture**{: .label .label-purple } Kernel Methods
-  : [Slides](../assets/slides/Lec9.pdf)
-  <!-- , [Notes](../assets/notes/Lec8.pdf) --> -->
+  : [Slides](../assets/slides/Lec9.pdf), [Notes](../assets/notes/Lec9.pdf)
 : *Instructor: Surbhi*
 
 Feb 14
