@@ -74,8 +74,8 @@ The following are helpful resources to review the mathematics that we will use i
 | 1:00 PM  | Pavlos, Levine 5th Floor Bump Space   | Aditya, Levine 512 |   |  | Tianyi, Levine 5th Floor Bump Space; Aryan, OHQ |   |  |
 | 1:30 PM  | Pavlos, Levine 5th Floor Bump Space   |  |   |  | Tianyi, Levine 5th Floor Bump; Aryan, OHQ |   |   |
 | 2:00 PM  |   |   |   |   | Jeffrey + David, Levine 512 |   |   |
-| 2:30 PM  |    |  | Bowen, Levine 612  |   | Jeffrey + David, Levine 512; Bowen, Levine 5th Floor Bump Space |   |   |
-| 3:00 PM  |    |   | Bowen, Levine 612  |   |  Bowen, Levine 5th Floor Bump Space |  |   |
+| 2:30 PM  |    |  |  |   | Jeffrey + David, Levine 512 |   |   |
+| 3:00 PM  |    |   |   |   |  |  |   |
 | 3:30 PM  |    |   |   |   |   |  |   |
 | 4:00 PM  |    | Wendi, Levine 512  |   | Will, Levine 512  |   |   |  |
 | 4:30 PM  |    | Wendi, Levine 512  |   | Will, Levine 512  |   |   |  |
