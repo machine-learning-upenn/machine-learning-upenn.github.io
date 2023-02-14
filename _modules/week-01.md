@@ -70,7 +70,7 @@ Feb 9
 
 Feb 14
 : **Lecture**{: .label .label-purple } Convex Optimization
-  <!-- : [Slides](#) -->
+  : [Slides](../assets/slides/Lec10.pdf), [Notes](../assets/notes/Lec10.pdf)
 : *Instructor: Surbhi*
 
 Feb 16
