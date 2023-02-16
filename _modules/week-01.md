@@ -69,13 +69,13 @@ Feb 9
 : *Instructor: Surbhi*
 
 Feb 14
-: **Lecture**{: .label .label-purple } Convex Optimization
+: **Lecture**{: .label .label-purple } Gradient Descent
   : [Slides](../assets/slides/Lec10.pdf), [Notes](../assets/notes/Lec10.pdf)
 : *Instructor: Surbhi*
 
 Feb 16
-: **Lecture**{: .label .label-purple } Non-convex Optimization
-  <!-- : [Slides](#) -->
+: **Lecture**{: .label .label-purple } Variants of Gradient Descent
+  : [Slides](../assets/slides/Lec9.pdf), [PGD and SGD (Sections 3.3, 3.4)](https://web.stanford.edu/~jduchi/PCMIConvex/Duchi16.pdf)
 : *Instructor: Eric*
 
 Feb 17
