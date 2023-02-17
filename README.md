@@ -11,7 +11,7 @@ seo:
 # CIS 5200 Machine Learning (Spring 2023)
 
 - **Lecture time**: Tuesdays and Thursdays 1:45-3:15 PM
-- **Lecture location**: TBA
+- **Lecture location**: Towne 100
 - **Instructors**: [Surbhi Goel](https://www.surbhigoel.com) (surbhig) and [Eric Wong](https://www.cis.upenn.edu/~exwong/) (exwong)
 - **Instructor office hours**: Tuesdays at 3:30-4:30PM (Levine 505)
 - **Head TAs**: Keshav Ramji (keshavr), and Wendi Zhang (wendiz)
@@ -62,7 +62,10 @@ The following are helpful resources to review the mathematics that we will use i
 
 ## Office Hours Schedule
 
-### [Google Calendar Link for Office Hours](https://calendar.google.com/calendar/embed?src=c_7e96d57b48b853f26b81bdc3a00066239328e093b587e49b735a9a6f025e5c98%40group.calendar.google.com&ctz=America%2FNew_York)
+<iframe src="https://calendar.google.com/calendar/embed?src=c_7e96d57b48b853f26b81bdc3a00066239328e093b587e49b735a9a6f025e5c98%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 2" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+<!-- ### [Google Calendar Link for Office Hours](https://calendar.google.com/calendar/embed?src=c_7e96d57b48b853f26b81bdc3a00066239328e093b587e49b735a9a6f025e5c98%40group.calendar.google.com&ctz=America%2FNew_York)
+-->
 
 <!--
 |  | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
