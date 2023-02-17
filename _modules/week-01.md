@@ -75,7 +75,7 @@ Feb 14
 
 Feb 16
 : **Lecture**{: .label .label-purple } Variants of Gradient Descent
-  : [Slides](../assets/slides/Lec9.pdf), [PGD and SGD (Sections 3.3, 3.4)](https://web.stanford.edu/~jduchi/PCMIConvex/Duchi16.pdf)
+  : [Slides](../assets/slides/Lec10.pdf), [Notes](../assets/notes/Lec10.pdf)
 : *Instructor: Eric*
 
 Feb 17
@@ -83,6 +83,7 @@ Feb 17
 
 Feb 21
 : **Lecture**{: .label .label-purple } HMMs
+  : [PGD and SGD (Sections 3.3, 3.4)](https://web.stanford.edu/~jduchi/PCMIConvex/Duchi16.pdf)
   <!-- : [Slides](#) -->
 : *Instructor: Eric*
 
