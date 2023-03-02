@@ -91,7 +91,7 @@ Feb 23
 
 Feb 28
 : **Lecture**{: .label .label-purple } MCMC
-  <!-- : [Slides](#) -->
+  : [Notes](../assets/notes/Lec13.pdf)
 : *Instructor: Eric*
 
 Mar 2
