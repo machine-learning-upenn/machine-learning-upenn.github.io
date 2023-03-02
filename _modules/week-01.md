@@ -96,7 +96,7 @@ Feb 28
 
 Mar 2
 : **Lecture**{: .label .label-purple } PAC Learning
-  <!-- : [Slides](#) -->
+  : [Slides](../assets/slides/Lec14.pdf), [Notes](../assets/notes/Lec14&15.pdf)
 : *Instructor: Surbhi*
 
 Mar 7
@@ -105,18 +105,18 @@ Mar 7
 Mar 9
 : **Spring Break**{: .label .label-blue } 
 
-Mar 13
-: **HW 3 out**{: .label .label-red }
-
 Mar 14
 : **Lecture**{: .label .label-purple } VC Theory
-  <!-- : [Slides](#) -->
+  : [Notes](../assets/notes/Lec14&15.pdf)
 : *Instructor: Surbhi*
 
 Mar 16
 : **Lecture**{: .label .label-purple } Bias/Variance Tradeoff
   <!-- : [Slides](#) -->
 : *Instructor: Surbhi*
+
+Mar 17
+: **HW 3 out**{: .label .label-red }
 
 Mar 21
 : **Lecture**{: .label .label-purple } Decision Trees
@@ -128,12 +128,6 @@ Mar 23
   <!-- : [Slides](#) -->
 : *Instructor: Eric*
 
-Mar 24
-: **HW 3 due**{: .label .label-red }
-
-Mar 27
-: **HW 4 out**{: .label .label-red }
-
 Mar 28
 : **Lecture**{: .label .label-purple } Boosting
   <!-- : [Slides](#) -->
@@ -143,6 +137,12 @@ Mar 30
 : **Lecture**{: .label .label-purple } Neural Networks (1)
   <!-- : [Slides](#) -->
 : *Instructor: Surbhi*
+
+Mar 31
+: **HW 3 due**{: .label .label-red }
+
+Mar 3
+: **HW 4 out**{: .label .label-red }
 
 Apr 4
 : **Lecture**{: .label .label-purple } Neural Networks (2)
@@ -154,12 +154,6 @@ Apr 6
   <!-- : [Slides](#) -->
 : *Instructor: Eric*
 
-Apr 7
-: **HW 4 due**{: .label .label-red }
-
-Apr 10
-: **HW 5 out**{: .label .label-red }
-
 Apr 11
 : **Lecture**{: .label .label-purple } Online Learning
   <!-- : [Slides](#) -->
@@ -170,13 +164,16 @@ Apr 13
   <!-- : [Slides](#) -->
 : *Instructor: TBD*
 
+Apr 14
+: **HW 4 due**{: .label .label-red }
+
+Apr 17
+: **HW 5 out**{: .label .label-red }
+
 Apr 18
 : **Lecture**{: .label .label-purple } Applications: Vision
   <!-- : [Slides](#) -->
 : *Instructor: Guest Speaker (TBA)*
-
-Apr 19
-: **HW 5 due**{: .label .label-red }
 
 Apr 20
 : **Lecture**{: .label .label-purple } Applications: Language
@@ -187,3 +184,6 @@ Apr 25
 : **Lecture**{: .label .label-purple } Introspection: Challenges and Risks of ML
   <!-- : [Slides](#) -->
 : *Instructor: Eric and Surbhi*
+
+Apr 26
+: **HW 5 due**{: .label .label-red }
