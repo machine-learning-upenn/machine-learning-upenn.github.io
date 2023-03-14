@@ -107,7 +107,7 @@ Mar 9
 
 Mar 14
 : **Lecture**{: .label .label-purple } VC Theory
-  : [Notes](../assets/notes/Lec14&15.pdf)
+  : [Slides](../assets/slides/Lec15.pdf) [Notes](../assets/notes/Lec14&15.pdf)
 : *Instructor: Surbhi*
 
 Mar 16
