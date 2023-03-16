@@ -112,7 +112,7 @@ Mar 14
 
 Mar 16
 : **Lecture**{: .label .label-purple } Bias/Variance Tradeoff
-  <!-- : [Slides](#) -->
+  : [Slides](../assets/slides/Lec16.pdf) [Notes](../assets/notes/Lec16.pdf)
 : *Instructor: Surbhi*
 
 Mar 17
