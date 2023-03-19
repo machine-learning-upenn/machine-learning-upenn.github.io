@@ -115,8 +115,9 @@ Mar 16
   : [Slides](../assets/slides/Lec16.pdf) [Notes](../assets/notes/Lec16.pdf)
 : *Instructor: Surbhi*
 
-Mar 17
+Mar 19
 : **HW 3 out**{: .label .label-red }
+  : [HW 3 Assignment](../assets/hws/HW3.pdf)
 
 Mar 21
 : **Lecture**{: .label .label-purple } Decision Trees
