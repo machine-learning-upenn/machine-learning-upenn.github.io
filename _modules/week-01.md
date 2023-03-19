@@ -139,10 +139,10 @@ Mar 30
   <!-- : [Slides](#) -->
 : *Instructor: Surbhi*
 
-Mar 31
+Apr 1
 : **HW 3 due**{: .label .label-red }
 
-Mar 3
+Apr 3
 : **HW 4 out**{: .label .label-red }
 
 Apr 4
