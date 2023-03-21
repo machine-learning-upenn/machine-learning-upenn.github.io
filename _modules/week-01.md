@@ -121,7 +121,7 @@ Mar 19
 
 Mar 21
 : **Lecture**{: .label .label-purple } Decision Trees
-  <!-- : [Slides](#) -->
+  : [Notes](https://canvas.upenn.edu/courses/1703237/files/folder/Handwritten%20Notes?preview=120633287)
 : *Instructor: Eric*
 
 Mar 23
