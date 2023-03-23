@@ -135,7 +135,7 @@ Mar 28
 : *Instructor: Surbhi*
 
 Mar 30
-: **Lecture**{: .label .label-purple } Neural Networks (1)
+: **Lecture**{: .label .label-purple } Active Learning
   <!-- : [Slides](#) -->
 : *Instructor: Surbhi*
 
@@ -146,12 +146,12 @@ Apr 3
 : **HW 4 out**{: .label .label-red }
 
 Apr 4
-: **Lecture**{: .label .label-purple } Neural Networks (2)
+: **Lecture**{: .label .label-purple } Neural Networks (1)
   <!-- : [Slides](#) -->
 : *Instructor: Eric*
 
 Apr 6
-: **Lecture**{: .label .label-purple } Active Learning
+: **Lecture**{: .label .label-purple } Neural Networks (2)
   <!-- : [Slides](#) -->
 : *Instructor: Eric*
 
