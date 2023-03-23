@@ -126,7 +126,7 @@ Mar 21
 
 Mar 23
 : **Lecture**{: .label .label-purple } Bagging, Random Forests
-  <!-- : [Slides](#) -->
+  : [Bagging and Random Forests Reading](https://www.cs.cornell.edu/courses/cs4780/2022sp/notes/LectureNotes21.html)
 : *Instructor: Eric*
 
 Mar 28
