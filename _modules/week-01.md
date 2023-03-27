@@ -131,7 +131,7 @@ Mar 23
 
 Mar 28
 : **Lecture**{: .label .label-purple } Boosting
-  <!-- : [Slides](#) -->
+  : [Slides](../assets/slides/Lec19.pdf) [Notes](../assets/notes/Lec19.pdf)
 : *Instructor: Surbhi*
 
 Mar 30
