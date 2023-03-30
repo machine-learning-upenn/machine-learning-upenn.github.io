@@ -174,7 +174,7 @@ Apr 17
 Apr 18
 : **Lecture**{: .label .label-purple } Applications: Vision
   <!-- : [Slides](#) -->
-: *Instructor: [Cyril Zhang](https://cyrilzhang.com/) (Microsoft Research NYC)*
+: *Instructor: [Cyril Zhang](https://cyrilzhang.com/), Microsoft Research NYC*
 
 Apr 20
 : **Lecture**{: .label .label-purple } Applications: Language
