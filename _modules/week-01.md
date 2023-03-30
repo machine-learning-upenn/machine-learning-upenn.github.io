@@ -136,8 +136,7 @@ Mar 28
 
 Mar 30
 : **Lecture**{: .label .label-purple } Active Learning
-  : [Slides](../assets/slides/Lec20.pdf) 
-<!--   [Notes](../assets/notes/Lec19.pdf) -->
+  : [Slides](../assets/slides/Lec20.pdf) [Notes](../assets/notes/Lec20.pdf) -->
 : *Instructor: Surbhi*
 
 Apr 1
