@@ -174,7 +174,7 @@ Apr 17
 Apr 18
 : **Lecture**{: .label .label-purple } Applications: Vision
   <!-- : [Slides](#) -->
-: *Instructor: Guest Speaker (TBA)*
+: *Instructor: [Cyril Zhang](https://cyrilzhang.com/)*
 
 Apr 20
 : **Lecture**{: .label .label-purple } Applications: Language
