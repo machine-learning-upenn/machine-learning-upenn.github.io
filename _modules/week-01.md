@@ -172,12 +172,12 @@ Apr 17
 : **HW 5 out**{: .label .label-red }
 
 Apr 18
-: **Lecture**{: .label .label-purple } Applications: Vision
+: **Lecture**{: .label .label-purple } Applications: Language
   <!-- : [Slides](#) -->
 : *Instructor: [Cyril Zhang](https://cyrilzhang.com/), Microsoft Research NYC*
 
 Apr 20
-: **Lecture**{: .label .label-purple } Applications: Language
+: **Lecture**{: .label .label-purple } Applications: Vision/Robotics
   <!-- : [Slides](#) -->
 : *Instructor: Guest Speaker (TBA)*
 
