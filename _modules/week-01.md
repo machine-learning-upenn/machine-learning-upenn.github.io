@@ -147,7 +147,7 @@ Apr 3
 
 Apr 4
 : **Lecture**{: .label .label-purple } Neural Networks (1)
-  <!-- : [Slides](#) -->
+  [Neural Networks reading (SB Chapter 20)](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
 : *Instructor: Eric*
 
 Apr 6
