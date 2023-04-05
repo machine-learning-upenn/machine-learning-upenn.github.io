@@ -142,13 +142,14 @@ Mar 30
 Apr 1
 : **HW 3 due**{: .label .label-red }
 
-Apr 3
-: **HW 4 out**{: .label .label-red }
-
 Apr 4
 : **Lecture**{: .label .label-purple } Neural Networks (1)
   [Neural Networks reading (SB Chapter 20)](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
 : *Instructor: Eric*
+
+Apr 4
+: **HW 4 out**{: .label .label-red }
+: [HW 4 Written Assignment](../assets/hws/homework4.pdf)
 
 Apr 6
 : **Lecture**{: .label .label-purple } Neural Networks (2)
@@ -172,14 +173,14 @@ Apr 17
 : **HW 5 out**{: .label .label-red }
 
 Apr 18
-: **Lecture**{: .label .label-purple } Applications: Language
+: **Lecture**{: .label .label-purple } Guest Lecture: NLP/Transformers
   <!-- : [Slides](#) -->
 : *Instructor: [Cyril Zhang](https://cyrilzhang.com/), Microsoft Research NYC*
 
 Apr 20
-: **Lecture**{: .label .label-purple } Applications: Vision/Robotics
+: **Lecture**{: .label .label-purple } Guest Lecture: Vision/Robotics
   <!-- : [Slides](#) -->
-: *Instructor: Guest Speaker (TBA)*
+: *Instructor: [Dinesh Jayaraman](https://www.seas.upenn.edu/~dineshj/), UPenn*
 
 Apr 25
 : **Lecture**{: .label .label-purple } Introspection: Challenges and Risks of ML
