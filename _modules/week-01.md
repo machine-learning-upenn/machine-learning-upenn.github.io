@@ -149,7 +149,7 @@ Apr 4
 
 Apr 4
 : **HW 4 out**{: .label .label-red }
-: [HW 4 Written Assignment](../assets/hws/homework4.pdf)
+: [HW 4 Written Assignment](../assets/hws/Homework4.pdf)
 
 Apr 6
 : **Lecture**{: .label .label-purple } Neural Networks (2)
