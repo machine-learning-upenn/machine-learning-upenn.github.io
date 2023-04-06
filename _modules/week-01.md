@@ -144,7 +144,7 @@ Apr 1
 
 Apr 4
 : **Lecture**{: .label .label-purple } Neural Networks (1)
-  [Neural Networks reading (SB Chapter 20)](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
+  : [Neural Networks reading (SB Chapter 20)](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
 : *Instructor: Eric*
 
 Apr 4
@@ -153,7 +153,7 @@ Apr 4
 
 Apr 6
 : **Lecture**{: .label .label-purple } Neural Networks (2)
-  <!-- : [Slides](#) -->
+  : [Automatic differentiation](https://dlsyscourse.org/slides/4-automatic-differentiation.pdf)
 : *Instructor: Eric*
 
 Apr 11
