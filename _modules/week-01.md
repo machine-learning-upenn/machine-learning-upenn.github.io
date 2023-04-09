@@ -182,7 +182,7 @@ Apr 18
 : *Instructor: [Cyril Zhang](https://cyrilzhang.com/), Microsoft Research NYC*
 
 Apr 19
-: **HW 4 Programming due**
+: **HW 4 Programming due**{: .label .label-red }
 
 Apr 20
 : **Lecture**{: .label .label-purple } Guest Lecture: Vision/Robotics
