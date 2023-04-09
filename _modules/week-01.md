@@ -148,13 +148,17 @@ Apr 4
 : *Instructor: Eric*
 
 Apr 4
-: **HW 4 out**{: .label .label-red }
+: **HW 4 Written out**{: .label .label-red }
 : [HW 4 Written Assignment](../assets/hws/Homework4_updated.pdf)
 
 Apr 6
 : **Lecture**{: .label .label-purple } Neural Networks (2)
   : [Automatic differentiation](https://dlsyscourse.org/slides/4-automatic-differentiation.pdf)
 : *Instructor: Eric*
+
+Apr 9
+: **HW 4 Programming out**{: .label .label-red }
+: [HW 4 Programming Assignment](https://drive.google.com/file/d/1qkm0Kk-11GwIYLmW4TSOcjVQXiW20Wd6/view?usp=sharing)
 
 Apr 11
 : **Lecture**{: .label .label-purple } Online Learning
@@ -167,7 +171,7 @@ Apr 13
 : *Instructor: TBD*
 
 Apr 14
-: **HW 4 due**{: .label .label-red }
+: **HW 4 Written due**{: .label .label-red }
 
 Apr 17
 : **HW 5 out**{: .label .label-red }
@@ -176,6 +180,9 @@ Apr 18
 : **Lecture**{: .label .label-purple } Guest Lecture: NLP/Transformers
   <!-- : [Slides](#) -->
 : *Instructor: [Cyril Zhang](https://cyrilzhang.com/), Microsoft Research NYC*
+
+Apr 19
+: **HW 4 Programming due**
 
 Apr 20
 : **Lecture**{: .label .label-purple } Guest Lecture: Vision/Robotics
