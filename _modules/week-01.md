@@ -149,7 +149,7 @@ Apr 4
 
 Apr 4
 : **HW 4 Written out**{: .label .label-red }
-: [HW 4 Written Assignment](../assets/hws/Homework4_updated.pdf)
+  : [HW 4 Written Assignment](../assets/hws/Homework4_updated.pdf)
 
 Apr 6
 : **Lecture**{: .label .label-purple } Neural Networks (2)
@@ -158,11 +158,11 @@ Apr 6
 
 Apr 9
 : **HW 4 Programming out**{: .label .label-red }
-: [HW 4 Programming Assignment](https://drive.google.com/file/d/1qkm0Kk-11GwIYLmW4TSOcjVQXiW20Wd6/view?usp=sharing)
+  : [HW 4 Programming Assignment](https://drive.google.com/file/d/1qkm0Kk-11GwIYLmW4TSOcjVQXiW20Wd6/view?usp=sharing)
 
 Apr 11
 : **Lecture**{: .label .label-purple } Online Learning
-  <!-- : [Slides](#) -->
+  : [Slides](../assets/slides/Lec23.pdf) [Notes](../assets/notes/Lec23.pdf)
 : *Instructor: Surbhi*
 
 Apr 13
