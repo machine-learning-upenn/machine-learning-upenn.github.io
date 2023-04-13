@@ -167,8 +167,8 @@ Apr 11
 
 Apr 13
 : **Lecture**{: .label .label-purple } Reinforcement Learning
-  <!-- : [Slides](#) -->
-: *Instructor: TBD*
+  : [Notes](../assets/notes/Lec24.pdf)
+: *Instructor: Eric and Surbhi*
 
 Apr 14
 : **HW 4 Written due**{: .label .label-red }
