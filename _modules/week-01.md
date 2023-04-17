@@ -175,6 +175,7 @@ Apr 14
 
 Apr 17
 : **HW 5 out**{: .label .label-red }
+  : [HW 5 Assignment](../assets/hws/Homework5.pdf)
 
 Apr 18
 : **Lecture**{: .label .label-purple } Guest Lecture: NLP/Transformers
