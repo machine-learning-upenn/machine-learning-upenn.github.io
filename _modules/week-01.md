@@ -179,7 +179,7 @@ Apr 17
 
 Apr 18
 : **Lecture**{: .label .label-purple } Guest Lecture: NLP/Transformers
-  <!-- : [Slides](#) -->
+  : [Slides](../assets/slides/Lec25.pdf)
 : *Instructor: [Cyril Zhang](https://cyrilzhang.com/), Microsoft Research NYC*
 
 Apr 19
