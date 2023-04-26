@@ -192,7 +192,7 @@ Apr 20
 
 Apr 25
 : **Lecture**{: .label .label-purple } Introspection: Challenges and Risks of ML
-  <!-- : [Slides](#) -->
+  : [Slides](../assets/slides/Lec28.pdf)
 : *Instructor: Eric and Surbhi*
 
 Apr 26
