@@ -187,7 +187,7 @@ Apr 19
 
 Apr 20
 : **Lecture**{: .label .label-purple } Guest Lecture: Vision/Robotics
-  <!-- : [Slides](#) -->
+  : [Slides](../assets/slides/Lec26.pdf)
 : *Instructor: [Dinesh Jayaraman](https://www.seas.upenn.edu/~dineshj/), UPenn*
 
 Apr 25
