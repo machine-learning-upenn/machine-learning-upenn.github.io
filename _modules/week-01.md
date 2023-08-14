@@ -34,7 +34,7 @@ Jan 24
 
 Jan 26
 : **Lecture**{: .label .label-purple } Gaussian Mixture Models, EM
-  : [Mixture of Gaussian from K-Means Reading (same reading as Jan 24)](https://www.cs.cornell.edu/courses/cs4780/2022sp/notes/LectureNotes04.html), [Mixtures of Gaussians from log likelihood and the EM algorithm Reading](http://cs229.stanford.edu/notes2020spring/cs229-notes7b.pdf), [General EM algorithm Readding](https://cs229.stanford.edu/notes2020spring/cs229-notes8.pdf)
+  : [Mixture of Gaussian from K-Means Reading (same reading as Jan 24)](https://www.cs.cornell.edu/courses/cs4780/2022sp/notes/LectureNotes04.html), [Mixtures of Gaussians from log likelihood and the EM algorithm Reading](http://cs229.stanford.edu/notes2020spring/cs229-notes7b.pdf), [General EM algorithm Reading (Sections 1+2)](https://cs229.stanford.edu/notes2020spring/cs229-notes8.pdf)
   <!-- : [Slides](#) -->
 : *Instructor: Eric*
 
@@ -56,25 +56,26 @@ Feb 3
 
 Feb 6
 : **HW 2 out**{: .label .label-red }
+  : [HW 2 Assignment](../assets/hws/hw2.pdf)
 
 Feb 7
 : **Lecture**{: .label .label-purple } Support Vector Machines (SVMs)
-  <!-- : [Slides](#) -->
+  : [Slides](../assets/slides/Lec8.pdf), [Notes](../assets/notes/Lec8.pdf)
 : *Instructor: Surbhi*
 
 Feb 9
 : **Lecture**{: .label .label-purple } Kernel Methods
-  <!-- : [Slides](#) -->
+  : [Slides](../assets/slides/Lec9.pdf), [Notes](../assets/notes/Lec9.pdf)
 : *Instructor: Surbhi*
 
 Feb 14
-: **Lecture**{: .label .label-purple } Convex Optimization
-  <!-- : [Slides](#) -->
+: **Lecture**{: .label .label-purple } Gradient Descent
+  : [Slides](../assets/slides/Lec10.pdf), [Notes](../assets/notes/Lec10.pdf)
 : *Instructor: Surbhi*
 
 Feb 16
-: **Lecture**{: .label .label-purple } Non-convex Optimization
-  <!-- : [Slides](#) -->
+: **Lecture**{: .label .label-purple } Gradient Descent (cont.)
+  : [Slides](../assets/slides/Lec10.pdf), [Notes](../assets/notes/Lec10.pdf), Optional Material ([PGD and SGD (Sections 3.3, 3.4)](https://web.stanford.edu/~jduchi/PCMIConvex/Duchi16.pdf)) 
 : *Instructor: Eric*
 
 Feb 17
@@ -82,7 +83,7 @@ Feb 17
 
 Feb 21
 : **Lecture**{: .label .label-purple } HMMs
-  <!-- : [Slides](#) -->
+  : [HMM Reading](https://cs229.stanford.edu/section/cs229-hmm.pdf)
 : *Instructor: Eric*
 
 Feb 23
@@ -90,12 +91,12 @@ Feb 23
 
 Feb 28
 : **Lecture**{: .label .label-purple } MCMC
-  <!-- : [Slides](#) -->
+  : [Notes](../assets/notes/Lec13_Updated.pdf)
 : *Instructor: Eric*
 
 Mar 2
 : **Lecture**{: .label .label-purple } PAC Learning
-  <!-- : [Slides](#) -->
+  : [Slides](../assets/slides/Lec14.pdf), [Notes](../assets/notes/Lec14&15.pdf)
 : *Instructor: Surbhi*
 
 Mar 7
@@ -104,85 +105,95 @@ Mar 7
 Mar 9
 : **Spring Break**{: .label .label-blue } 
 
-Mar 13
-: **HW 3 out**{: .label .label-red }
-
 Mar 14
 : **Lecture**{: .label .label-purple } VC Theory
-  <!-- : [Slides](#) -->
+  : [Slides](../assets/slides/Lec15.pdf) [Notes](../assets/notes/Lec14&15.pdf)
 : *Instructor: Surbhi*
 
 Mar 16
 : **Lecture**{: .label .label-purple } Bias/Variance Tradeoff
-  <!-- : [Slides](#) -->
+  : [Slides](../assets/slides/Lec16.pdf) [Notes](../assets/notes/Lec16.pdf)
 : *Instructor: Surbhi*
+
+Mar 19
+: **HW 3 out**{: .label .label-red }
+  : [HW 3 Assignment](../assets/hws/HW3.pdf)
 
 Mar 21
 : **Lecture**{: .label .label-purple } Decision Trees
-  <!-- : [Slides](#) -->
+  : [Notes](https://canvas.upenn.edu/courses/1703237/files/folder/Handwritten%20Notes?preview=120633287)
 : *Instructor: Eric*
 
 Mar 23
 : **Lecture**{: .label .label-purple } Bagging, Random Forests
-  <!-- : [Slides](#) -->
+  : [Bagging and Random Forests Reading](https://www.cs.cornell.edu/courses/cs4780/2022sp/notes/LectureNotes21.html)
 : *Instructor: Eric*
-
-Mar 24
-: **HW 3 due**{: .label .label-red }
-
-Mar 27
-: **HW 4 out**{: .label .label-red }
 
 Mar 28
 : **Lecture**{: .label .label-purple } Boosting
-  <!-- : [Slides](#) -->
+  : [Slides](../assets/slides/Lec19.pdf) [Notes](../assets/notes/Lec19.pdf)
 : *Instructor: Surbhi*
 
 Mar 30
-: **Lecture**{: .label .label-purple } Neural Networks (1)
-  <!-- : [Slides](#) -->
+: **Lecture**{: .label .label-purple } Active Learning
+  : [Slides](../assets/slides/Lec20.pdf) [Notes](../assets/notes/Lec20.pdf)
 : *Instructor: Surbhi*
 
+Apr 1
+: **HW 3 due**{: .label .label-red }
+
 Apr 4
-: **Lecture**{: .label .label-purple } Neural Networks (2)
-  <!-- : [Slides](#) -->
+: **Lecture**{: .label .label-purple } Neural Networks (1)
+  : [Notes](../assets/notes/Neural_Networks.pdf) [Neural Networks reading (SB Chapter 20)](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
 : *Instructor: Eric*
+
+Apr 4
+: **HW 4 Written out**{: .label .label-red }
+  : [HW 4 Written Assignment](../assets/hws/Homework4_updated.pdf)
 
 Apr 6
-: **Lecture**{: .label .label-purple } Active Learning
-  <!-- : [Slides](#) -->
+: **Lecture**{: .label .label-purple } Neural Networks (2)
+  : [Notes](../assets/notes/Neural_Networks.pdf) [Automatic differentiation](https://dlsyscourse.org/slides/4-automatic-differentiation.pdf)
 : *Instructor: Eric*
 
-Apr 7
-: **HW 4 due**{: .label .label-red }
-
-Apr 10
-: **HW 5 out**{: .label .label-red }
+Apr 9
+: **HW 4 Programming out**{: .label .label-red }
+  : [HW 4 Programming Assignment](https://drive.google.com/file/d/1qkm0Kk-11GwIYLmW4TSOcjVQXiW20Wd6/view?usp=sharing)
 
 Apr 11
 : **Lecture**{: .label .label-purple } Online Learning
-  <!-- : [Slides](#) -->
+  : [Slides](../assets/slides/Lec23.pdf) [Notes](../assets/notes/Lec23.pdf)
 : *Instructor: Surbhi*
 
 Apr 13
 : **Lecture**{: .label .label-purple } Reinforcement Learning
-  <!-- : [Slides](#) -->
-: *Instructor: TBD*
+  : [Notes](../assets/notes/Lec24.pdf)
+: *Instructor: Eric and Surbhi*
+
+Apr 14
+: **HW 4 Written due**{: .label .label-red }
+
+Apr 17
+: **HW 5 out**{: .label .label-red }
+  : [HW 5 Assignment](../assets/hws/Homework5.pdf)
 
 Apr 18
-: **Lecture**{: .label .label-purple } Applications: Vision
-  <!-- : [Slides](#) -->
-: *Instructor: Guest Speaker (TBA)*
+: **Lecture**{: .label .label-purple } Guest Lecture: NLP/Transformers
+  : [Slides](../assets/slides/Lec25.pdf)
+: *Instructor: [Cyril Zhang](https://cyrilzhang.com/), Microsoft Research NYC*
 
 Apr 19
-: **HW 5 due**{: .label .label-red }
+: **HW 4 Programming due**{: .label .label-red }
 
 Apr 20
-: **Lecture**{: .label .label-purple } Applications: Language
-  <!-- : [Slides](#) -->
-: *Instructor: Guest Speaker (TBA)*
+: **Lecture**{: .label .label-purple } Guest Lecture: Vision/Robotics
+  : [Slides](../assets/slides/Lec26.pdf)
+: *Instructor: [Dinesh Jayaraman](https://www.seas.upenn.edu/~dineshj/), UPenn*
 
 Apr 25
 : **Lecture**{: .label .label-purple } Introspection: Challenges and Risks of ML
-  <!-- : [Slides](#) -->
+  : [Slides](../assets/slides/Lec28.pdf)
 : *Instructor: Eric and Surbhi*
+
+Apr 26
+: **HW 5 due**{: .label .label-red }

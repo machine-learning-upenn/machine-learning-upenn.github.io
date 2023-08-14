@@ -11,7 +11,7 @@ seo:
 # CIS 5200 Machine Learning (Spring 2023)
 
 - **Lecture time**: Tuesdays and Thursdays 1:45-3:15 PM
-- **Lecture location**: TBA
+- **Lecture location**: Towne 100
 - **Instructors**: [Surbhi Goel](https://www.surbhigoel.com) (surbhig) and [Eric Wong](https://www.cis.upenn.edu/~exwong/) (exwong)
 - **Instructor office hours**: Tuesdays at 3:30-4:30PM (Levine 505)
 - **Head TAs**: Keshav Ramji (keshavr), and Wendi Zhang (wendiz)
@@ -62,20 +62,23 @@ The following are helpful resources to review the mathematics that we will use i
 
 ## Office Hours Schedule
 
-### [Google Calendar Link for Office Hours](https://calendar.google.com/calendar/embed?src=c_7e96d57b48b853f26b81bdc3a00066239328e093b587e49b735a9a6f025e5c98%40group.calendar.google.com&ctz=America%2FNew_York)
+<iframe src="https://calendar.google.com/calendar/embed?src=c_7e96d57b48b853f26b81bdc3a00066239328e093b587e49b735a9a6f025e5c98%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 2" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
+<!-- ### [Google Calendar Link for Office Hours](https://calendar.google.com/calendar/embed?src=c_7e96d57b48b853f26b81bdc3a00066239328e093b587e49b735a9a6f025e5c98%40group.calendar.google.com&ctz=America%2FNew_York)
+-->
 
+<!--
 |  | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 | ------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
 | 11:00 AM  |   |   |   | Tianyi + Heyi, Levine 5th Floor Bump Space  |   | Abhinav, Levine 512  |   |
-| 11:30 AM  |   | Aditya, OHQ |   | Tianyi + Heyi, Levine 5th Floor Bump Space |   | Abhinav, Levine 512 |   |
+| 11:30 AM  |   | Aditya, Levine 5th Floor Bump Space |   | Tianyi + Heyi, Levine 5th Floor Bump Space |   | Abhinav, Levine 512 |   |
 | 12:00 PM  | Pavlos, Levine 5th Floor Bump Space  | Aditya + Jeffrey, Levine 5th Floor Bump Space |   | Wendi + Heyi, Levine 5th Floor Bump Space |   |   |   |
 | 12:30 PM  | Pavlos, Levine 5th Floor Bump Space  | Aditya + Jeffrey, Levine 5th Floor Bump Space |   | Wendi + Heyi, Levine 5th Floor Bump Space |   |  |   |
 | 1:00 PM  | Pavlos, Levine 5th Floor Bump Space   | Aditya, Levine 512 |   |  | Tianyi, Levine 5th Floor Bump Space; Aryan, OHQ |   |  |
 | 1:30 PM  | Pavlos, Levine 5th Floor Bump Space   |  |   |  | Tianyi, Levine 5th Floor Bump; Aryan, OHQ |   |   |
 | 2:00 PM  |   |   |   |   | Jeffrey + David, Levine 512 |   |   |
-| 2:30 PM  |    |  | Bowen, Levine 612  |   | Jeffrey + David, Levine 512; Bowen, Levine 5th Floor Bump Space |   |   |
-| 3:00 PM  |    |   | Bowen, Levine 612  |   |  Bowen, Levine 5th Floor Bump Space |  |   |
+| 2:30 PM  |    |  |  |   | Jeffrey + David, Levine 512 |   |   |
+| 3:00 PM  |    |   |   |   |  |  |   |
 | 3:30 PM  |    |   |   |   |   |  |   |
 | 4:00 PM  |    | Wendi, Levine 512  |   | Will, Levine 512  |   |   |  |
 | 4:30 PM  |    | Wendi, Levine 512  |   | Will, Levine 512  |   |   |  |
@@ -89,3 +92,4 @@ The following are helpful resources to review the mathematics that we will use i
 | 8:30 PM  |    | |  |   |   |  |   |   
 | 9:00 PM  |  | Aryan, OHQ |  |   |   |  |   |   
 | 9:30 PM  |  | Aryan, OHQ |  |   |   |  |   |   
+-->
