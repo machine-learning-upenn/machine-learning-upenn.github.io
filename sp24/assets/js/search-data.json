@@ -1,0 +1,140 @@
+{"0": {
+    "doc": "CIS 5200 Machine Learning (Spring 2023)",
+    "title": "CIS 5200 Machine Learning (Spring 2023)",
+    "content": ". | Lecture time: Tuesdays and Thursdays 1:45-3:15 PM | Lecture location: Towne 100 | Instructors: Surbhi Goel (surbhig) and Eric Wong (exwong) | Instructor office hours: Tuesdays at 3:30-4:30PM (Levine 505) | Head TAs: Keshav Ramji (keshavr), and Wendi Zhang (wendiz) | TAs: Abhinav Atrishi, Jordan Hochman, Bowen Jiang, Pavlos Kallinikidis, William Liang, Heyi Liu, David Zhi LuoZhang, Aryan Nagariya, Jeffrey Pan, Aditya Pratap Singh, and Tianyi Wei | TA Office Hours: See Schedule Below | Questions: We will be using Ed Discussion for all course communications. We encourage you to ask and answer any questions about the class (including homeworks, course schedule, exams, etc.) on Ed. You can post privately on Ed to contact the course staff (including instructors), if needed. | . Waitlist information: To get off the waitlist, complete Homework 0 and send your solutions to the Head TAs. Permission for remaining seats will be granted to those that complete Homework 0. If you find Homework 0 to be very time consuming and extremely difficult, this course may not be right for you. ",
+    "url": "/index.html",
+    "relUrl": "/index.html"
+  },"1": {
+    "doc": "CIS 5200 Machine Learning (Spring 2023)",
+    "title": "Course Overview",
+    "content": "This course intends to provide a thorough modern introduction to the field of machine learning. It is designed for students who want to understand not only what machine learning algorithms do and how they can be used, but also the fundamental principles behind how and why they work. In particular, the course will focus on understanding the theoretical foundations of machine learning methods, along with applying them to real world data. The course schedule contains the tentative schedule including topics we will cover in the lectures and any relevant reading material. Please refer here for the more information on the course along with the course policies. ",
+    "url": "/index.html#course-overview",
+    "relUrl": "/index.html#course-overview"
+  },"2": {
+    "doc": "CIS 5200 Machine Learning (Spring 2023)",
+    "title": "Format",
+    "content": "Lectures will be held live every Tuesday and Thursday during 1:45-3:15 pm. Office hours will be held throughout the week. The time and location for the office hours will be posted soon. Note that we will not be recording the lectures, so we highly encourage attending them live. Lecture notes and slides will be made available after the lecture. If you miss class, we encourage you to attend office hours. ",
+    "url": "/index.html#format",
+    "relUrl": "/index.html#format"
+  },"3": {
+    "doc": "CIS 5200 Machine Learning (Spring 2023)",
+    "title": "Prerequisites",
+    "content": ". | Undergraduate level training or coursework on linear algebra, (multivariate) calculus, and basic probability and statistics, . | Basic programming in Python, . | Undergraduate level training or coursework in the analysis of algorithms. | . ",
+    "url": "/index.html#prerequisites",
+    "relUrl": "/index.html#prerequisites"
+  },"4": {
+    "doc": "CIS 5200 Machine Learning (Spring 2023)",
+    "title": "Resources",
+    "content": "We will not be explicitly following any single textbook in this course. The following books are useful for supplementary reading. | Machine Learning (ML) by Tom Mitchell. Available as PDF here. A classic introduction to machine learning that assumes no knowledge of statistics or artificial intelligence. | Elements of Statistical Learning (ESL) by Trevor Hastie, Robert Tibshirani and Jerome Friedman. Available as PDF here. | Probabilistic Machine Learning: An Introduction (PML) by Kevin Murphy. Available as PDF here. | Understanding Machine Learning: From Theory to Algorithms (UML) by Shai Shalev-Shwartz and Shai Ben-David. Available as PDF here. Refer to this book for a more detailed theoretical exposition of the material covered in class. | . The following are helpful resources to review the mathematics that we will use in this course: . | Mathematics for Machine Learning (MML) by Marc Deisenroth, A. Aldo Faisal, and Cheng Soon Ong. Available as PDF here. | Linear Algebra Review and Reference by Zico Kolter. Available as PDF here. | . ",
+    "url": "/index.html#resources",
+    "relUrl": "/index.html#resources"
+  },"5": {
+    "doc": "CIS 5200 Machine Learning (Spring 2023)",
+    "title": "Office Hours Schedule",
+    "content": " ",
+    "url": "/index.html#office-hours-schedule",
+    "relUrl": "/index.html#office-hours-schedule"
+  },"6": {
+    "doc": "Policies",
+    "title": "About",
+    "content": " ",
+    "url": "/about/#about",
+    "relUrl": "/about/#about"
+  },"7": {
+    "doc": "Policies",
+    "title": "Table of contents",
+    "content": ". | Grading . | Homeworks | Exams | . | Regrading | Collaboration | Honor Code | Masking Policy | Wellness Statement | DEI Statement | . ",
+    "url": "/about/#table-of-contents",
+    "relUrl": "/about/#table-of-contents"
+  },"8": {
+    "doc": "Policies",
+    "title": "Grading",
+    "content": "Your grade will be based on three components: Homeworks 50% (HW0: Required (2%), HW1-HW4: 10% each, HW5: 8%); Midterm 20%; Final 30%. Homeworks . Homeworks will be posted on Mondays, every two weeks except for the week of the midterm. They will be due on the Friday the week after they have been released. Grades will be made available within 10 days of the deadline. Your homeworks will be submitted via Gradescope. Coding will be in Python. Written homeworks should be submitted in Latex. A template will be made available with the homework. Each student will have 144 cumulative hours (6 days) of late time (as measured on Canvas), which will be forgiven. After this cumulative amount of time has passed, any assignment that is turned in late will receive zero credit. Furthermore, only up to 48 hours (2 days) of late time may be used on any one assignment; any assignment turned in more than 48 hours late will receive zero credit. Exams . There will be two exams: (1) a Midterm exam to be held on February 23, 2023 during the lecture, and (2) a Final exam to be held in May (date/time TBA). ",
+    "url": "/about/#grading",
+    "relUrl": "/about/#grading"
+  },"9": {
+    "doc": "Policies",
+    "title": "Regrading",
+    "content": "If you would like a regrade of an assignment or exam, you must submit your request within 1 week from the date when grades are released. All requests must be made through Gradescope with a written explanation of the concern. They will not be entertained during the OHs or lectures. ",
+    "url": "/about/#regrading",
+    "relUrl": "/about/#regrading"
+  },"10": {
+    "doc": "Policies",
+    "title": "Collaboration",
+    "content": "Collaboration is permitted and encouraged for homeworks, though each student must understand, write, and hand in their own submission. In particular, it is acceptable for students to discuss problems with each other; it is not acceptable for students to look at another student’s written answers when writing their own. It is also not acceptable to publicly post your (partial) solution on Ed, but it is is encouraged for you to ask public questions on Ed. If you choose to collaborate, you must indicate on each homework with whom you collaborated. No collaboration or discussion is allowed for exams. ",
+    "url": "/about/#collaboration",
+    "relUrl": "/about/#collaboration"
+  },"11": {
+    "doc": "Policies",
+    "title": "Honor Code",
+    "content": "The purpose of homeworks is to help you get a deeper understanding of the course material and practice with applying the concepts learned in class, not just give us the right answers. You are encouraged to use online resources for learning more about the material covered in class; however, you should not look for or use found solutions to questions in the homeworks. This includes any solutions found on the internet to questions in the homework, solutions by a student in a previous class or by a current classmate, and/or by querying ChatGPT. Cheating will be punished according to university regulations as determined by the Office of Student Conduct and the University. ",
+    "url": "/about/#honor-code",
+    "relUrl": "/about/#honor-code"
+  },"12": {
+    "doc": "Policies",
+    "title": "Masking Policy",
+    "content": "For the health and safety of everyone, we are requiring that all students wear a mask during class and office hours. If you are feeling sick, we encourage you to stay at home and recover. ",
+    "url": "/about/#masking-policy",
+    "relUrl": "/about/#masking-policy"
+  },"13": {
+    "doc": "Policies",
+    "title": "Wellness Statement",
+    "content": "Your mental health and wellbeing are incredibly important to us and we recognize the stresses (both school and non-school related) that many of you may be under here at Penn. We encourage you to come speak to the us as well as the TAs if you have any extenuating circumstances as you progress through this course. We want to make sure that you are aware of some of the mental health resources here at Penn. | Student health and counseling: the primary care and psychological care division of Wellness at Penn which can be used to schedule counseling appointments. | Mental health at Penn: Penn’s mental health hub. | If there is any urgent concern, please contact CAPS at 215-898-7021 for emergency help. | . If you are a victim of, witness, or are otherwise affected by unacceptable behavior: . | In cases of sexual harassment and assault, please consult DPS Special Services at 215-573-3333 or 511 from a campus phone; this is a confidential resource. | To report other bias incidents, contact the Penn Office of Diversity | For other bias violations of the code of student conduct, the Office of Student Conduct has an bias incident reporting form | . ",
+    "url": "/about/#wellness-statement",
+    "relUrl": "/about/#wellness-statement"
+  },"14": {
+    "doc": "Policies",
+    "title": "DEI Statement",
+    "content": "At Penn and in this class we value and actively seek to include all students and their unique identities (including but not limited to ethnicity, gender, sexual orientation, country of origin, class, religion, and disability status). You belong here, and we are here to help you. If at any time, you feel that this class is not providing an inclusive environment to your or your classmates, please let us know. We want this class, lectures, office hours, review sessions, and exams, to be an inclusive space where you feel comfortable learning. ",
+    "url": "/about/#dei-statement",
+    "relUrl": "/about/#dei-statement"
+  },"15": {
+    "doc": "Policies",
+    "title": "Policies",
+    "content": " ",
+    "url": "/about/",
+    "relUrl": "/about/"
+  },"16": {
+    "doc": "Announcements",
+    "title": "Announcements",
+    "content": "Announcements are stored in the _announcements directory and rendered according to the layout file, _layouts/announcement.html. ",
+    "url": "/announcements/",
+    "relUrl": "/announcements/"
+  },"17": {
+    "doc": "Announcements",
+    "title": "Week 0 Announcement",
+    "content": "Apr 1 &middot; 0 min read Homework 0 will be made available on the first class. This homework should serve as a check for background knowledge necessary for the course. Even though the homework score will not be counted towards the grade, it is necessary for everyone to submit their solutions. ",
+    "url": "/announcements/",
+    "relUrl": "/announcements/"
+  },"18": {
+    "doc": "Schedule",
+    "title": "Schedule",
+    "content": " ",
+    "url": "/calendar/",
+    "relUrl": "/calendar/"
+  },"19": {
+    "doc": "Schedule",
+    "title": "CIS5200 Machine Learning",
+    "content": "Jan 12 Lecture Introduction &amp; Course Overview Slides, Notes Instructor: Eric and Surbhi HW 0 out HW 0 Assignment Jan 17 Lecture Binary Classification, Perceptron Slides, Notes Instructor: Surbhi Jan 19 Lecture Linear Regression, Logistic Regression Slides, Notes Instructor: Surbhi . Jan 20 HW 0 due Jan 23 HW 1 out HW 1 Assignment Jan 24 Lecture Clustering, K-Means Risk Reading (Section 1.2), K-Means Reading Instructor: Eric Jan 26 Lecture Gaussian Mixture Models, EM Mixture of Gaussian from K-Means Reading (same reading as Jan 24), Mixtures of Gaussians from log likelihood and the EM algorithm Reading, General EM algorithm Reading (Sections 1+2) Instructor: Eric Jan 31 Lecture PCA, ICA Principal Components Analysis (PCA) and Dimensionality Reduction, Independent Components Analysis (ICA) Instructor: Eric Feb 2 Lecture Linear Programs, Duality, Quadratic Programs Duality, LP, QP notes (Section 3.3) Instructor: Eric Feb 3 HW 1 due Feb 6 HW 2 out HW 2 Assignment Feb 7 Lecture Support Vector Machines (SVMs) Slides, Notes Instructor: Surbhi Feb 9 Lecture Kernel Methods Slides, Notes Instructor: Surbhi Feb 14 Lecture Gradient Descent Slides, Notes Instructor: Surbhi Feb 16 Lecture Gradient Descent (cont.) Slides, Notes, Optional Material (PGD and SGD (Sections 3.3, 3.4)) Instructor: Eric Feb 17 HW 2 due Feb 21 Lecture HMMs HMM Reading Instructor: Eric Feb 23 Midterm Feb 28 Lecture MCMC Notes Instructor: Eric Mar 2 Lecture PAC Learning Slides, Notes Instructor: Surbhi Mar 7 Spring Break Mar 9 Spring Break Mar 14 Lecture VC Theory Slides Notes Instructor: Surbhi Mar 16 Lecture Bias/Variance Tradeoff Slides Notes Instructor: Surbhi Mar 19 HW 3 out HW 3 Assignment Mar 21 Lecture Decision Trees Notes Instructor: Eric Mar 23 Lecture Bagging, Random Forests Bagging and Random Forests Reading Instructor: Eric Mar 28 Lecture Boosting Slides Notes Instructor: Surbhi Mar 30 Lecture Active Learning Slides Notes Instructor: Surbhi Apr 1 HW 3 due Apr 4 Lecture Neural Networks (1) Notes Neural Networks reading (SB Chapter 20) Instructor: Eric Apr 4 HW 4 Written out HW 4 Written Assignment Apr 6 Lecture Neural Networks (2) Notes Automatic differentiation Instructor: Eric Apr 9 HW 4 Programming out HW 4 Programming Assignment Apr 11 Lecture Online Learning Slides Notes Instructor: Surbhi Apr 13 Lecture Reinforcement Learning Notes Instructor: Eric and Surbhi Apr 14 HW 4 Written due Apr 17 HW 5 out HW 5 Assignment Apr 18 Lecture Guest Lecture: NLP/Transformers Slides Instructor: Cyril Zhang, Microsoft Research NYC Apr 19 HW 4 Programming due Apr 20 Lecture Guest Lecture: Vision/Robotics Slides Instructor: Dinesh Jayaraman, UPenn Apr 25 Lecture Introspection: Challenges and Risks of ML Slides Instructor: Eric and Surbhi Apr 26 HW 5 due ",
+    "url": "/calendar/#cis5200-machine-learning",
+    "relUrl": "/calendar/#cis5200-machine-learning"
+  },"20": {
+    "doc": "Staff",
+    "title": "Staff",
+    "content": " ",
+    "url": "/staff/",
+    "relUrl": "/staff/"
+  },"21": {
+    "doc": "Staff",
+    "title": "Instructors",
+    "content": "Eric Wong . exwong@cis.upenn.edu . CIS Assistant Professor . Surbhi Goel . surbhig@cis.upenn.edu . CIS Assistant Professor . ",
+    "url": "/staff/#instructors",
+    "relUrl": "/staff/#instructors"
+  },"22": {
+    "doc": "Staff",
+    "title": "Teaching Assistants",
+    "content": "Abhinav Atrishi . abhinav1@seas.upenn.edu . Aditya Pratap Singh . adiprs@seas.upenn.edu . Aryan Nagariya . nagariya@seas.upenn.edu . David Zhi LuoZhang . davidlz@wharton.upenn.edu . Heyi Liu . heyiliu@seas.upenn.edu . Jeffrey Pan . jzpan@wharton.upenn.edu . Jordan Hochman . jhawkman@seas.upenn.edu . Keshav Ramji . keshavr@seas.upenn.edu . Head TA . Pavlos Kallinikidis . pgkallin@seas.upenn.edu . Tianyi Wei . tywei@seas.upenn.edu . Wendi Zhang . wendiz@seas.upenn.edu . Head TA . William Liang . wjhliang@seas.upenn.edu . ",
+    "url": "/staff/#teaching-assistants",
+    "relUrl": "/staff/#teaching-assistants"
+  }
+}
